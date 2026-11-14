@@ -19,9 +19,9 @@ SOURCES = [
     # name, region, url, Benchmark-Index (Yahoo), Mindestanzahl
     ("DAX", "de", "https://en.wikipedia.org/wiki/DAX", "^GDAXI", 35),
     ("MDAX", "de", "https://en.wikipedia.org/wiki/MDAX", "^MDAXI", 40),
-    ("TecDAX", "de", "https://en.wikipedia.org/wiki/TecDAX", "^TECDAX", 25),
+    ("TecDAX", "de", "https://de.wikipedia.org/wiki/TecDAX", "^TECDAX", 25),
     ("S&P 500", "us", "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies", "^GSPC", 480),
-    ("Nasdaq 100", "us", "https://en.wikipedia.org/wiki/Nasdaq-100", "^NDX", 95),
+    ("Nasdaq 100", "us", "https://de.wikipedia.org/wiki/NASDAQ-100", "^NDX", 95),
 ]
 TICKER_COLS = ["Symbol", "Ticker", "Ticker symbol", "Ticker Symbol"]
 MAX_AGE_DAYS = 7
@@ -42,9 +42,10 @@ NAME_COLS = ["Security", "Company", "Name", "Company name"]
 def _fetch(name, region, url, min_rows) -> list[tuple[str, str]]:
     html = requests.get(url, headers=UA, timeout=30).text
     for tbl in pd.read_html(io.StringIO(html)):
-        cols = [c for c in TICKER_COLS if c in tbl.columns]
+        clean = {c: str(c).split("[")[0].strip() for c in tbl.columns}   # "Symbol[9]" -> "Symbol"
+        cols = [c for c in tbl.columns if clean[c] in TICKER_COLS]
         if cols and len(tbl) >= min_rows:
-            ncol = next((c for c in NAME_COLS if c in tbl.columns), None)
+            ncol = next((c for c in tbl.columns if clean[c] in NAME_COLS or clean[c].startswith("Name")), None)
             names = tbl[ncol].astype(str) if ncol else [""] * len(tbl)
             out = [(_normalize(x, region), n) for x, n in zip(tbl[cols[0]], names)]
             return [(t, n) for t, n in out if t]
@@ -57,7 +58,8 @@ def load(cache: Path) -> pd.DataFrame:
            else pd.DataFrame(columns=["ticker", "name", "region", "index", "benchmark", "updated"]))
     if len(old) and "updated" in old.columns:
         age = (pd.Timestamp.today().normalize() - pd.Timestamp(old["updated"].iloc[0])).days
-        if age < MAX_AGE_DAYS:
+        complete = set(old["index"]) >= {src[0] for src in SOURCES}
+        if age < MAX_AGE_DAYS and complete:
             return old
     rows = []
     for name, region, url, bench, min_rows in SOURCES:
