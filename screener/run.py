@@ -185,6 +185,8 @@ def main(argv=None) -> int:
         "heute_geschlossene_papier_trades": [
             {k: r[k] for k in ("strategy", "ticker", "exit_reason", "ret_pct")} for r in closed_today],
         "offene_papier_trades": len(open_trades),
+        "diagnose": {"universum": len(uni), "kursreihen": len(data), "liquide_geprueft": len(ind),
+                     "rohsignale": {k: sum(1 for s in signals if s["strategy"] == k) for k in C.STRATEGY_NAMES}},
         "kennzahlen": stats,
     })
     print(f"{len(final)} Signale, {len(top)} für die Einschätzung, {len(closed_today)} Papier-Trades geschlossen")
