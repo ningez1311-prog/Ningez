@@ -3,16 +3,27 @@
   "region": "de",
   "boerse": "Xetra",
   "handelstag": "2026-11-13",
-  "erstellt": "2026-11-14T23:16+01:00",
+  "erstellt": "2026-11-14T23:27+01:00",
   "marktfilter": {
     "DAX": true,
-    "MDAX": false
+    "MDAX": false,
+    "TecDAX": true
   },
   "top_signale": [],
   "weitere_signale": 0,
   "gesperrt_oder_marktfilter": [],
   "heute_geschlossene_papier_trades": [],
   "offene_papier_trades": 0,
+  "diagnose": {
+    "universum": 100,
+    "kursreihen": 102,
+    "liquide_geprueft": 74,
+    "rohsignale": {
+      "A": 0,
+      "B": 0,
+      "C": 0
+    }
+  },
   "kennzahlen": {
     "A": {
       "name": "Turnaround",
