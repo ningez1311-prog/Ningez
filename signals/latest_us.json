@@ -1,1 +1,54 @@
-{"status": "noch_kein_lauf"}
+{
+  "status": "ok",
+  "region": "us",
+  "boerse": "NYSE/Nasdaq",
+  "handelstag": "2026-11-13",
+  "erstellt": "2026-11-14T17:23-05:00",
+  "marktfilter": {
+    "S&P 500": true,
+    "Nasdaq 100": false
+  },
+  "top_signale": [],
+  "weitere_signale": 0,
+  "gesperrt_oder_marktfilter": [],
+  "heute_geschlossene_papier_trades": [],
+  "offene_papier_trades": 0,
+  "kennzahlen": {
+    "A": {
+      "name": "Turnaround",
+      "signale": 0,
+      "offen": 0,
+      "wartend": 0,
+      "ausgelassen": 0,
+      "geschlossen": 0,
+      "trefferquote": null,
+      "avg_gewinn": null,
+      "avg_verlust": null,
+      "erwartungswert": null
+    },
+    "B": {
+      "name": "Momentum-Ausbruch",
+      "signale": 0,
+      "offen": 0,
+      "wartend": 0,
+      "ausgelassen": 0,
+      "geschlossen": 0,
+      "trefferquote": null,
+      "avg_gewinn": null,
+      "avg_verlust": null,
+      "erwartungswert": null
+    },
+    "C": {
+      "name": "Drift nach Zahlen",
+      "signale": 0,
+      "offen": 0,
+      "wartend": 0,
+      "ausgelassen": 0,
+      "geschlossen": 0,
+      "trefferquote": null,
+      "avg_gewinn": null,
+      "avg_verlust": null,
+      "erwartungswert": null
+    }
+  }
+}

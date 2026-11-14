@@ -86,6 +86,19 @@ TKA.DE,ThyssenKrupp,de,MDAX,^MDAXI,2026-11-14
 TUI1.DE,TUI,de,MDAX,^MDAXI,2026-11-14
 UTDI.DE,United Internet,de,MDAX,^MDAXI,2026-11-14
 WCH.DE,Wacker Chemie,de,MDAX,^MDAXI,2026-11-14
+AOF.DE,Atoss Software AG,de,TecDAX,^TECDAX,2026-11-14
+DRW3.DE,Drägerwerk AG & Co. KGaA,de,TecDAX,^TECDAX,2026-11-14
+EUZ.DE,Eckert & Ziegler Strahlen- und Medizintechnik AG,de,TecDAX,^TECDAX,2026-11-14
+ELG.DE,Elmos Semiconductor SE,de,TecDAX,^TECDAX,2026-11-14
+IOS.DE,Ionos SE,de,TecDAX,^TECDAX,2026-11-14
+KTN.DE,Kontron AG,de,TecDAX,^TECDAX,2026-11-14
+OHB.DE,OHB SE,de,TecDAX,^TECDAX,2026-11-14
+OBCK.DE,Ottobock SE & Co. KGaA,de,TecDAX,^TECDAX,2026-11-14
+TPE.DE,PVA TePla AG,de,TecDAX,^TECDAX,2026-11-14
+SRT3.DE,Sartorius AG,de,TecDAX,^TECDAX,2026-11-14
+S92.DE,SMA Solar Technology AG,de,TecDAX,^TECDAX,2026-11-14
+SMHN.DE,Suss Microtec SE,de,TecDAX,^TECDAX,2026-11-14
+VBK.DE,Verbio SE,de,TecDAX,^TECDAX,2026-11-14
 MMM,3M,us,S&P 500,^GSPC,2026-11-14
 AOS,A. O. Smith,us,S&P 500,^GSPC,2026-11-14
 ABT,Abbott Laboratories,us,S&P 500,^GSPC,2026-11-14
@@ -589,3 +602,19 @@ YUM,Yum! Brands,us,S&P 500,^GSPC,2026-11-14
 ZBRA,Zebra Technologies,us,S&P 500,^GSPC,2026-11-14
 ZBH,Zimmer Biomet,us,S&P 500,^GSPC,2026-11-14
 ZTS,Zoetis,us,S&P 500,^GSPC,2026-11-14
+ALAB,Astera Labs,us,Nasdaq 100,^NDX,2026-11-14
+ALNY,Alnylam Pharmaceuticals,us,Nasdaq 100,^NDX,2026-11-14
+ARM,ARM Holdings,us,Nasdaq 100,^NDX,2026-11-14
+ASML,ASML Holding,us,Nasdaq 100,^NDX,2026-11-14
+CCEP,Coca-Cola Europacific Partners,us,Nasdaq 100,^NDX,2026-11-14
+CRWV,CoreWeave,us,Nasdaq 100,^NDX,2026-11-14
+FER,Ferrovial,us,Nasdaq 100,^NDX,2026-11-14
+"GOOG,",Alphabet Inc.,us,Nasdaq 100,^NDX,2026-11-14
+MELI,MercadoLibre,us,Nasdaq 100,^NDX,2026-11-14
+MSTR,Strategy,us,Nasdaq 100,^NDX,2026-11-14
+NBIS,Nebius Group,us,Nasdaq 100,^NDX,2026-11-14
+PDD,Pinduoduo,us,Nasdaq 100,^NDX,2026-11-14
+RLAB,Rocket Lab,us,Nasdaq 100,^NDX,2026-11-14
+SHOP,Shopify,us,Nasdaq 100,^NDX,2026-11-14
+SPCX,SpaceX,us,Nasdaq 100,^NDX,2026-11-14
+TRI,Thomson Reuters,us,Nasdaq 100,^NDX,2026-11-14
