@@ -1,0 +1,38 @@
+{
+  "A": {
+    "name": "Turnaround",
+    "signale": 0,
+    "offen": 0,
+    "wartend": 0,
+    "ausgelassen": 0,
+    "geschlossen": 0,
+    "trefferquote": null,
+    "avg_gewinn": null,
+    "avg_verlust": null,
+    "erwartungswert": null
+  },
+  "B": {
+    "name": "Momentum-Ausbruch",
+    "signale": 0,
+    "offen": 0,
+    "wartend": 0,
+    "ausgelassen": 0,
+    "geschlossen": 0,
+    "trefferquote": null,
+    "avg_gewinn": null,
+    "avg_verlust": null,
+    "erwartungswert": null
+  },
+  "C": {
+    "name": "Drift nach Zahlen",
+    "signale": 0,
+    "offen": 0,
+    "wartend": 0,
+    "ausgelassen": 0,
+    "geschlossen": 0,
+    "trefferquote": null,
+    "avg_gewinn": null,
+    "avg_verlust": null,
+    "erwartungswert": null
+  }
+}
