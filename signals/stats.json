@@ -25,9 +25,9 @@
   },
   "C": {
     "name": "Drift nach Zahlen",
-    "signale": 0,
+    "signale": 1,
     "offen": 0,
-    "wartend": 0,
+    "wartend": 1,
     "ausgelassen": 0,
     "geschlossen": 0,
     "trefferquote": null,

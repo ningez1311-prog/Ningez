@@ -2,17 +2,45 @@
   "status": "ok",
   "region": "us",
   "boerse": "NYSE/Nasdaq",
-  "handelstag": "2026-11-13",
-  "erstellt": "2026-11-14T17:23-05:00",
+  "handelstag": "2026-11-16",
+  "erstellt": "2026-11-16T16:59-05:00",
   "marktfilter": {
     "S&P 500": true,
     "Nasdaq 100": false
   },
-  "top_signale": [],
+  "top_signale": [
+    {
+      "strategie_name": "Drift nach Zahlen",
+      "ticker": "TSN",
+      "name": "Tyson Foods",
+      "index": "S&P 500",
+      "close": 63.95,
+      "max_einstieg": 65.8685,
+      "stop": 60.46,
+      "ziel_ca": 70.345,
+      "time_stop": 20,
+      "detail": "Kursreaktion +8.7% mit 2.22x Volumen",
+      "earnings_flag": "Zahlen bestätigt",
+      "hebel_max": 12.1,
+      "ko_schwelle_max": 58.6462,
+      "max_einsatz_eur": 152.0,
+      "stop_abstand_pct": 0.0546
+    }
+  ],
   "weitere_signale": 0,
   "gesperrt_oder_marktfilter": [],
   "heute_geschlossene_papier_trades": [],
   "offene_papier_trades": 0,
+  "diagnose": {
+    "universum": 519,
+    "kursreihen": 519,
+    "liquide_geprueft": 516,
+    "rohsignale": {
+      "A": 0,
+      "B": 0,
+      "C": 1
+    }
+  },
   "kennzahlen": {
     "A": {
       "name": "Turnaround",
@@ -40,9 +68,9 @@
     },
     "C": {
       "name": "Drift nach Zahlen",
-      "signale": 0,
+      "signale": 1,
       "offen": 0,
-      "wartend": 0,
+      "wartend": 1,
       "ausgelassen": 0,
       "geschlossen": 0,
       "trefferquote": null,
