@@ -5,10 +5,15 @@ name: Screener
 # und läuft pro Handelstag nur einmal.
 on:
   schedule:
-    - cron: "50 15 * * 1-5"   # DE: 17:50 Sommerzeit
-    - cron: "50 16 * * 1-5"   # DE: 17:50 Winterzeit
-    - cron: "20 20 * * 1-5"   # US: 22:20 Berlin (Sommerzeit)
-    - cron: "20 21 * * 1-5"   # US: 22:20 Berlin (Winterzeit)
+    # GitHub startet geplante Läufe oft 30-60 Minuten verspätet -> je Region mehrere Slots
+    - cron: "45 15 * * 1-5"   # DE Sommerzeit
+    - cron: "10 16 * * 1-5"   # DE Sommerzeit (Reserve)
+    - cron: "45 16 * * 1-5"   # DE Winterzeit
+    - cron: "10 17 * * 1-5"   # DE Winterzeit (Reserve)
+    - cron: "15 20 * * 1-5"   # US Sommerzeit
+    - cron: "40 20 * * 1-5"   # US Sommerzeit (Reserve)
+    - cron: "15 21 * * 1-5"   # US Winterzeit
+    - cron: "40 21 * * 1-5"   # US Winterzeit (Reserve)
   workflow_dispatch:
     inputs:
       region:
@@ -49,7 +54,7 @@ jobs:
             [ "${{ inputs.force }}" = "true" ] && echo "FORCE=--force" >> $GITHUB_ENV || true
           else
             case "${{ github.event.schedule }}" in
-              "50 15 * * 1-5"|"50 16 * * 1-5") echo "REGION=de" >> $GITHUB_ENV ;;
+              "45 15 * * 1-5"|"10 16 * * 1-5"|"45 16 * * 1-5"|"10 17 * * 1-5") echo "REGION=de" >> $GITHUB_ENV ;;
               *) echo "REGION=us" >> $GITHUB_ENV ;;
             esac
           fi
