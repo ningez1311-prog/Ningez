@@ -14,8 +14,8 @@
   "B": {
     "name": "Momentum-Ausbruch",
     "signale": 1,
-    "offen": 0,
-    "wartend": 1,
+    "offen": 1,
+    "wartend": 0,
     "ausgelassen": 0,
     "geschlossen": 0,
     "trefferquote": null,

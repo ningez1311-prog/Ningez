@@ -2,27 +2,25 @@
   "status": "ok",
   "region": "de",
   "boerse": "Xetra",
-  "handelstag": "2026-11-17",
-  "erstellt": "2026-11-17T17:45+01:00",
+  "handelstag": "2026-11-18",
+  "erstellt": "2026-11-18T17:42+01:00",
   "marktfilter": {
     "DAX": true,
     "MDAX": false,
     "TecDAX": true
   },
   "top_signale": [],
-  "weitere_signale": 1,
-  "gesperrt_oder_marktfilter": [
-    "EVK.DE (B): Marktfilter"
-  ],
+  "weitere_signale": 0,
+  "gesperrt_oder_marktfilter": [],
   "heute_geschlossene_papier_trades": [],
-  "offene_papier_trades": 0,
+  "offene_papier_trades": 1,
   "diagnose": {
     "universum": 100,
     "kursreihen": 102,
     "liquide_geprueft": 72,
     "rohsignale": {
       "A": 0,
-      "B": 1,
+      "B": 0,
       "C": 0
     }
   },
@@ -42,8 +40,8 @@
     "B": {
       "name": "Momentum-Ausbruch",
       "signale": 1,
-      "offen": 0,
-      "wartend": 1,
+      "offen": 1,
+      "wartend": 0,
       "ausgelassen": 0,
       "geschlossen": 0,
       "trefferquote": null,
@@ -54,8 +52,8 @@
     "C": {
       "name": "Drift nach Zahlen",
       "signale": 1,
-      "offen": 0,
-      "wartend": 1,
+      "offen": 1,
+      "wartend": 0,
       "ausgelassen": 0,
       "geschlossen": 0,
       "trefferquote": null,
