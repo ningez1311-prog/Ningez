@@ -1,3 +1,5 @@
 id,region,strategy,ticker,index,signal_date,signal_close,stop,target_pct,time_stop,max_entry,market_ok,earnings_flag,in_top,rank_score,status,entry_date,entry_price,target,exit_date,exit_price,exit_reason,bars_held,ret_pct,last_checked
-2026-11-16-C-TSN,us,C,TSN,S&P 500,2026-11-16,63.95,60.46,0.1,20,65.8685,True,Zahlen bestätigt,True,0.1936,open,2026-11-17,63.01,69.311,,,,1,,2026-11-17
+2026-11-16-C-TSN,us,C,TSN,S&P 500,2026-11-16,63.95,60.46,0.1,20,65.8685,True,Zahlen bestätigt,True,0.1936,open,2026-11-17,63.01,69.311,,,,2,,2026-11-18
 2026-11-17-B-EVK.DE,de,B,EVK.DE,MDAX,2026-11-17,22.08,20.5344,,40,22.7424,False,,False,0.3714,open,2026-11-18,22.1,,,,,1,,2026-11-18
+2026-11-18-C-PANW,us,C,PANW,S&P 500,2026-11-18,339.92,311.63,0.1,20,350.1176,False,Zahlen bestätigt,False,0.2298,pending,,,,,,,0,,
+2026-11-18-B-DIS,us,B,DIS,S&P 500,2026-11-18,122.36,113.7948,,40,126.0308,False,,False,0.1846,pending,,,,,,,0,,

@@ -13,9 +13,9 @@
   },
   "B": {
     "name": "Momentum-Ausbruch",
-    "signale": 1,
+    "signale": 2,
     "offen": 1,
-    "wartend": 0,
+    "wartend": 1,
     "ausgelassen": 0,
     "geschlossen": 0,
     "trefferquote": null,
@@ -25,9 +25,9 @@
   },
   "C": {
     "name": "Drift nach Zahlen",
-    "signale": 1,
+    "signale": 2,
     "offen": 1,
-    "wartend": 0,
+    "wartend": 1,
     "ausgelassen": 0,
     "geschlossen": 0,
     "trefferquote": null,
