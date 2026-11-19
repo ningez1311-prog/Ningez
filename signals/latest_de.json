@@ -2,8 +2,8 @@
   "status": "ok",
   "region": "de",
   "boerse": "Xetra",
-  "handelstag": "2026-11-18",
-  "erstellt": "2026-11-18T17:42+01:00",
+  "handelstag": "2026-11-19",
+  "erstellt": "2026-11-19T17:43+01:00",
   "marktfilter": {
     "DAX": true,
     "MDAX": false,
@@ -12,11 +12,18 @@
   "top_signale": [],
   "weitere_signale": 0,
   "gesperrt_oder_marktfilter": [],
-  "heute_geschlossene_papier_trades": [],
-  "offene_papier_trades": 1,
+  "heute_geschlossene_papier_trades": [
+    {
+      "strategy": "B",
+      "ticker": "EVK.DE",
+      "exit_reason": "Stop",
+      "ret_pct": -0.0808
+    }
+  ],
+  "offene_papier_trades": 0,
   "diagnose": {
     "universum": 100,
-    "kursreihen": 102,
+    "kursreihen": 101,
     "liquide_geprueft": 72,
     "rohsignale": {
       "A": 0,
@@ -39,21 +46,21 @@
     },
     "B": {
       "name": "Momentum-Ausbruch",
-      "signale": 1,
-      "offen": 1,
-      "wartend": 0,
+      "signale": 2,
+      "offen": 0,
+      "wartend": 1,
       "ausgelassen": 0,
-      "geschlossen": 0,
-      "trefferquote": null,
+      "geschlossen": 1,
+      "trefferquote": 0.0,
       "avg_gewinn": null,
-      "avg_verlust": null,
-      "erwartungswert": null
+      "avg_verlust": -0.0808,
+      "erwartungswert": -0.0808
     },
     "C": {
       "name": "Drift nach Zahlen",
-      "signale": 1,
+      "signale": 2,
       "offen": 1,
-      "wartend": 0,
+      "wartend": 1,
       "ausgelassen": 0,
       "geschlossen": 0,
       "trefferquote": null,
