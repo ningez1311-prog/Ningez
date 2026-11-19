@@ -2,27 +2,26 @@
   "status": "ok",
   "region": "us",
   "boerse": "NYSE/Nasdaq",
-  "handelstag": "2026-11-18",
-  "erstellt": "2026-11-18T16:30-05:00",
+  "handelstag": "2026-11-19",
+  "erstellt": "2026-11-19T16:27-05:00",
   "marktfilter": {
     "S&P 500": false,
     "Nasdaq 100": false
   },
   "top_signale": [],
-  "weitere_signale": 2,
+  "weitere_signale": 1,
   "gesperrt_oder_marktfilter": [
-    "PANW (C): Marktfilter",
-    "DIS (B): Marktfilter"
+    "PDD (C): Marktfilter"
   ],
   "heute_geschlossene_papier_trades": [],
-  "offene_papier_trades": 1,
+  "offene_papier_trades": 2,
   "diagnose": {
     "universum": 519,
-    "kursreihen": 519,
-    "liquide_geprueft": 516,
+    "kursreihen": 518,
+    "liquide_geprueft": 514,
     "rohsignale": {
       "A": 0,
-      "B": 1,
+      "B": 0,
       "C": 1
     }
   },
@@ -43,20 +42,20 @@
       "name": "Momentum-Ausbruch",
       "signale": 2,
       "offen": 1,
-      "wartend": 1,
+      "wartend": 0,
       "ausgelassen": 0,
-      "geschlossen": 0,
-      "trefferquote": null,
+      "geschlossen": 1,
+      "trefferquote": 0.0,
       "avg_gewinn": null,
-      "avg_verlust": null,
-      "erwartungswert": null
+      "avg_verlust": -0.0808,
+      "erwartungswert": -0.0808
     },
     "C": {
       "name": "Drift nach Zahlen",
-      "signale": 2,
+      "signale": 3,
       "offen": 1,
       "wartend": 1,
-      "ausgelassen": 0,
+      "ausgelassen": 1,
       "geschlossen": 0,
       "trefferquote": null,
       "avg_gewinn": null,
