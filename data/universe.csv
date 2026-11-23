@@ -1,620 +1,620 @@
 ticker,name,region,index,benchmark,updated
-ADS.DE,Adidas,de,DAX,^GDAXI,2026-11-14
-AIR.PA,Airbus,de,DAX,^GDAXI,2026-11-14
-ALV.DE,Allianz,de,DAX,^GDAXI,2026-11-14
-BAS.DE,BASF,de,DAX,^GDAXI,2026-11-14
-BAYN.DE,Bayer,de,DAX,^GDAXI,2026-11-14
-BEI.DE,Beiersdorf,de,DAX,^GDAXI,2026-11-14
-BMW.DE,BMW,de,DAX,^GDAXI,2026-11-14
-BNR.DE,Brenntag,de,DAX,^GDAXI,2026-11-14
-CBK.DE,Commerzbank,de,DAX,^GDAXI,2026-11-14
-CON.DE,Continental,de,DAX,^GDAXI,2026-11-14
-DTG.DE,Daimler Truck,de,DAX,^GDAXI,2026-11-14
-DBK.DE,Deutsche Bank,de,DAX,^GDAXI,2026-11-14
-DB1.DE,Deutsche Börse,de,DAX,^GDAXI,2026-11-14
-DHL.DE,Deutsche Post,de,DAX,^GDAXI,2026-11-14
-DTE.DE,Deutsche Telekom,de,DAX,^GDAXI,2026-11-14
-EOAN.DE,E.ON,de,DAX,^GDAXI,2026-11-14
-FRE.DE,Fresenius,de,DAX,^GDAXI,2026-11-14
-FME.DE,Fresenius Medical Care,de,DAX,^GDAXI,2026-11-14
-G1A.DE,GEA Group,de,DAX,^GDAXI,2026-11-14
-HNR1.DE,Hannover Re,de,DAX,^GDAXI,2026-11-14
-HEI.DE,Heidelberg Materials,de,DAX,^GDAXI,2026-11-14
-HEN3.DE,Henkel,de,DAX,^GDAXI,2026-11-14
-IFX.DE,Infineon Technologies,de,DAX,^GDAXI,2026-11-14
-MBG.DE,Mercedes-Benz Group,de,DAX,^GDAXI,2026-11-14
-MRK.DE,Merck,de,DAX,^GDAXI,2026-11-14
-MTX.DE,MTU Aero Engines,de,DAX,^GDAXI,2026-11-14
-MUV2.DE,Munich Re,de,DAX,^GDAXI,2026-11-14
-PAH3.DE,Porsche SE,de,DAX,^GDAXI,2026-11-14
-QIA.DE,Qiagen,de,DAX,^GDAXI,2026-11-14
-RHM.DE,Rheinmetall,de,DAX,^GDAXI,2026-11-14
-RWE.DE,RWE,de,DAX,^GDAXI,2026-11-14
-SAP.DE,SAP,de,DAX,^GDAXI,2026-11-14
-G24.DE,Scout24,de,DAX,^GDAXI,2026-11-14
-SIE.DE,Siemens,de,DAX,^GDAXI,2026-11-14
-ENR.DE,Siemens Energy,de,DAX,^GDAXI,2026-11-14
-SHL.DE,Siemens Healthineers,de,DAX,^GDAXI,2026-11-14
-SY1.DE,Symrise,de,DAX,^GDAXI,2026-11-14
-VOW3.DE,Volkswagen Group,de,DAX,^GDAXI,2026-11-14
-VNA.DE,Vonovia,de,DAX,^GDAXI,2026-11-14
-ZAL.DE,Zalando,de,DAX,^GDAXI,2026-11-14
-AIXA.DE,Aixtron,de,MDAX,^MDAXI,2026-11-14
-AT1.DE,Aroundtown,de,MDAX,^MDAXI,2026-11-14
-NDA.DE,Aurubis,de,MDAX,^MDAXI,2026-11-14
-BC8.DE,Bechtle,de,MDAX,^MDAXI,2026-11-14
-BFSA.DE,Befesa,de,MDAX,^MDAXI,2026-11-14
-GBF.DE,Bilfinger,de,MDAX,^MDAXI,2026-11-14
-AFX.DE,Carl Zeiss Meditec,de,MDAX,^MDAXI,2026-11-14
-EVD.DE,CTS Eventim,de,MDAX,^MDAXI,2026-11-14
-DHER.DE,Delivery Hero,de,MDAX,^MDAXI,2026-11-14
-LHA.DE,Lufthansa,de,MDAX,^MDAXI,2026-11-14
-ECV.DE,Encavis,de,MDAX,^MDAXI,2026-11-14
-EVK.DE,Evonik,de,MDAX,^MDAXI,2026-11-14
-EVT.DE,Evotec,de,MDAX,^MDAXI,2026-11-14
-FRA.DE,Fraport,de,MDAX,^MDAXI,2026-11-14
-FNTN.DE,Freenet,de,MDAX,^MDAXI,2026-11-14
-FPE3.DE,Fuchs Petrolub,de,MDAX,^MDAXI,2026-11-14
-GXI.DE,Gerresheimer,de,MDAX,^MDAXI,2026-11-14
-HLE.DE,Hella,de,MDAX,^MDAXI,2026-11-14
-HFG.DE,HelloFresh,de,MDAX,^MDAXI,2026-11-14
-HAG.DE,Hensoldt,de,MDAX,^MDAXI,2026-11-14
-HOT.DE,Hochtief,de,MDAX,^MDAXI,2026-11-14
-BOSS.DE,Hugo Boss,de,MDAX,^MDAXI,2026-11-14
-JEN.DE,Jenoptik,de,MDAX,^MDAXI,2026-11-14
-JUN3.DE,Jungheinrich,de,MDAX,^MDAXI,2026-11-14
-SDF.DE,K+S,de,MDAX,^MDAXI,2026-11-14
-KGX.DE,KION Group,de,MDAX,^MDAXI,2026-11-14
-KBX.DE,Knorr-Bremse,de,MDAX,^MDAXI,2026-11-14
-KRN.DE,Krones,de,MDAX,^MDAXI,2026-11-14
-LXS.DE,Lanxess,de,MDAX,^MDAXI,2026-11-14
-LEG.DE,LEG Immobilien,de,MDAX,^MDAXI,2026-11-14
-NEM.DE,Nemetschek,de,MDAX,^MDAXI,2026-11-14
-NDX1.DE,Nordex,de,MDAX,^MDAXI,2026-11-14
-PUM.DE,Puma,de,MDAX,^MDAXI,2026-11-14
-RAA.DE,Rational,de,MDAX,^MDAXI,2026-11-14
-RDC.DE,Redcare Pharmacy,de,MDAX,^MDAXI,2026-11-14
-RRTL.DE,RTL Group,de,MDAX,^MDAXI,2026-11-14
-WAF.DE,Siltronic,de,MDAX,^MDAXI,2026-11-14
-STM.DE,Stabilus,de,MDAX,^MDAXI,2026-11-14
-SAX.DE,Ströer,de,MDAX,^MDAXI,2026-11-14
-TEG.DE,TAG Tegernsee Immobilien und Beteiligung,de,MDAX,^MDAXI,2026-11-14
-TLX.DE,Talanx,de,MDAX,^MDAXI,2026-11-14
-TMV.DE,TeamViewer,de,MDAX,^MDAXI,2026-11-14
-TKA.DE,ThyssenKrupp,de,MDAX,^MDAXI,2026-11-14
-8TRA.DE,Traton,de,MDAX,^MDAXI,2026-11-14
-TUI1.DE,TUI,de,MDAX,^MDAXI,2026-11-14
-UTDI.DE,United Internet,de,MDAX,^MDAXI,2026-11-14
-WCH.DE,Wacker Chemie,de,MDAX,^MDAXI,2026-11-14
-AOF.DE,Atoss Software AG,de,TecDAX,^TECDAX,2026-11-14
-DRW3.DE,Drägerwerk AG & Co. KGaA,de,TecDAX,^TECDAX,2026-11-14
-EUZ.DE,Eckert & Ziegler Strahlen- und Medizintechnik AG,de,TecDAX,^TECDAX,2026-11-14
-ELG.DE,Elmos Semiconductor SE,de,TecDAX,^TECDAX,2026-11-14
-IOS.DE,Ionos SE,de,TecDAX,^TECDAX,2026-11-14
-KTN.DE,Kontron AG,de,TecDAX,^TECDAX,2026-11-14
-OHB.DE,OHB SE,de,TecDAX,^TECDAX,2026-11-14
-OBCK.DE,Ottobock SE & Co. KGaA,de,TecDAX,^TECDAX,2026-11-14
-TPE.DE,PVA TePla AG,de,TecDAX,^TECDAX,2026-11-14
-SRT3.DE,Sartorius AG,de,TecDAX,^TECDAX,2026-11-14
-S92.DE,SMA Solar Technology AG,de,TecDAX,^TECDAX,2026-11-14
-SMHN.DE,Suss Microtec SE,de,TecDAX,^TECDAX,2026-11-14
-VBK.DE,Verbio SE,de,TecDAX,^TECDAX,2026-11-14
-MMM,3M,us,S&P 500,^GSPC,2026-11-14
-AOS,A. O. Smith,us,S&P 500,^GSPC,2026-11-14
-ABT,Abbott Laboratories,us,S&P 500,^GSPC,2026-11-14
-ABBV,AbbVie,us,S&P 500,^GSPC,2026-11-14
-ACN,Accenture,us,S&P 500,^GSPC,2026-11-14
-ADBE,Adobe Inc.,us,S&P 500,^GSPC,2026-11-14
-AMD,Advanced Micro Devices,us,S&P 500,^GSPC,2026-11-14
-AES,AES Corporation,us,S&P 500,^GSPC,2026-11-14
-AFL,Aflac,us,S&P 500,^GSPC,2026-11-14
-A,Agilent Technologies,us,S&P 500,^GSPC,2026-11-14
-APD,Air Products,us,S&P 500,^GSPC,2026-11-14
-ABNB,Airbnb,us,S&P 500,^GSPC,2026-11-14
-AKAM,Akamai Technologies,us,S&P 500,^GSPC,2026-11-14
-ALB,Albemarle Corporation,us,S&P 500,^GSPC,2026-11-14
-ARE,Alexandria Real Estate Equities,us,S&P 500,^GSPC,2026-11-14
-ALGN,Align Technology,us,S&P 500,^GSPC,2026-11-14
-ALLE,Allegion,us,S&P 500,^GSPC,2026-11-14
-LNT,Alliant Energy,us,S&P 500,^GSPC,2026-11-14
-ALL,Allstate,us,S&P 500,^GSPC,2026-11-14
-GOOGL,Alphabet Inc. (Class A),us,S&P 500,^GSPC,2026-11-14
-GOOG,Alphabet Inc. (Class C),us,S&P 500,^GSPC,2026-11-14
-MO,Altria,us,S&P 500,^GSPC,2026-11-14
-AMZN,Amazon,us,S&P 500,^GSPC,2026-11-14
-AMCR,Amcor,us,S&P 500,^GSPC,2026-11-14
-AEE,Ameren,us,S&P 500,^GSPC,2026-11-14
-AEP,American Electric Power,us,S&P 500,^GSPC,2026-11-14
-AXP,American Express,us,S&P 500,^GSPC,2026-11-14
-AIG,American International Group,us,S&P 500,^GSPC,2026-11-14
-AMT,American Tower,us,S&P 500,^GSPC,2026-11-14
-AWK,American Water Works,us,S&P 500,^GSPC,2026-11-14
-AMP,Ameriprise Financial,us,S&P 500,^GSPC,2026-11-14
-AME,Ametek,us,S&P 500,^GSPC,2026-11-14
-AMGN,Amgen,us,S&P 500,^GSPC,2026-11-14
-APH,Amphenol,us,S&P 500,^GSPC,2026-11-14
-ADI,Analog Devices,us,S&P 500,^GSPC,2026-11-14
-AON,Aon plc,us,S&P 500,^GSPC,2026-11-14
-APA,APA Corporation,us,S&P 500,^GSPC,2026-11-14
-APO,Apollo Global Management,us,S&P 500,^GSPC,2026-11-14
-AAPL,Apple Inc.,us,S&P 500,^GSPC,2026-11-14
-AMAT,Applied Materials,us,S&P 500,^GSPC,2026-11-14
-APP,AppLovin,us,S&P 500,^GSPC,2026-11-14
-APTV,Aptiv,us,S&P 500,^GSPC,2026-11-14
-ACGL,Arch Capital Group,us,S&P 500,^GSPC,2026-11-14
-ADM,Archer Daniels Midland,us,S&P 500,^GSPC,2026-11-14
-ARES,Ares Management,us,S&P 500,^GSPC,2026-11-14
-ANET,Arista Networks,us,S&P 500,^GSPC,2026-11-14
-AJG,Arthur J. Gallagher & Co.,us,S&P 500,^GSPC,2026-11-14
-AIZ,Assurant,us,S&P 500,^GSPC,2026-11-14
-T,AT&T,us,S&P 500,^GSPC,2026-11-14
-ATO,Atmos Energy,us,S&P 500,^GSPC,2026-11-14
-ADSK,Autodesk,us,S&P 500,^GSPC,2026-11-14
-ADP,Automatic Data Processing,us,S&P 500,^GSPC,2026-11-14
-AZO,AutoZone,us,S&P 500,^GSPC,2026-11-14
-AVY,Avery Dennison,us,S&P 500,^GSPC,2026-11-14
-AXON,Axon Enterprise,us,S&P 500,^GSPC,2026-11-14
-BKR,Baker Hughes,us,S&P 500,^GSPC,2026-11-14
-BALL,Ball Corporation,us,S&P 500,^GSPC,2026-11-14
-BAC,Bank of America,us,S&P 500,^GSPC,2026-11-14
-BAX,Baxter International,us,S&P 500,^GSPC,2026-11-14
-BDX,Becton Dickinson,us,S&P 500,^GSPC,2026-11-14
-BRK-B,Berkshire Hathaway,us,S&P 500,^GSPC,2026-11-14
-BBY,Best Buy,us,S&P 500,^GSPC,2026-11-14
-TECH,Bio-Techne,us,S&P 500,^GSPC,2026-11-14
-BIIB,Biogen,us,S&P 500,^GSPC,2026-11-14
-BLK,BlackRock,us,S&P 500,^GSPC,2026-11-14
-BX,Blackstone Inc.,us,S&P 500,^GSPC,2026-11-14
-XYZ,"Block, Inc.",us,S&P 500,^GSPC,2026-11-14
-BE,Bloom Energy,us,S&P 500,^GSPC,2026-11-14
-BNY,BNY Mellon,us,S&P 500,^GSPC,2026-11-14
-BA,Boeing,us,S&P 500,^GSPC,2026-11-14
-BKNG,Booking Holdings,us,S&P 500,^GSPC,2026-11-14
-BSX,Boston Scientific,us,S&P 500,^GSPC,2026-11-14
-BMY,Bristol Myers Squibb,us,S&P 500,^GSPC,2026-11-14
-AVGO,Broadcom,us,S&P 500,^GSPC,2026-11-14
-BR,Broadridge Financial Solutions,us,S&P 500,^GSPC,2026-11-14
-BRO,Brown & Brown,us,S&P 500,^GSPC,2026-11-14
-BF-B,Brown–Forman,us,S&P 500,^GSPC,2026-11-14
-BG,Bunge Global,us,S&P 500,^GSPC,2026-11-14
-BXP,"BXP, Inc.",us,S&P 500,^GSPC,2026-11-14
-CHRW,C.H. Robinson,us,S&P 500,^GSPC,2026-11-14
-CDNS,Cadence Design Systems,us,S&P 500,^GSPC,2026-11-14
-CPT,Camden Property Trust,us,S&P 500,^GSPC,2026-11-14
-COF,Capital One,us,S&P 500,^GSPC,2026-11-14
-CAH,Cardinal Health,us,S&P 500,^GSPC,2026-11-14
-CCL,Carnival Corporation,us,S&P 500,^GSPC,2026-11-14
-CARR,Carrier Global,us,S&P 500,^GSPC,2026-11-14
-CVNA,Carvana,us,S&P 500,^GSPC,2026-11-14
-CASY,Casey's,us,S&P 500,^GSPC,2026-11-14
-CAT,Caterpillar Inc.,us,S&P 500,^GSPC,2026-11-14
-CBOE,Cboe Global Markets,us,S&P 500,^GSPC,2026-11-14
-CBRE,CBRE Group,us,S&P 500,^GSPC,2026-11-14
-CDW,CDW Corporation,us,S&P 500,^GSPC,2026-11-14
-COR,Cencora,us,S&P 500,^GSPC,2026-11-14
-CNC,Centene Corporation,us,S&P 500,^GSPC,2026-11-14
-CNP,CenterPoint Energy,us,S&P 500,^GSPC,2026-11-14
-CF,CF Industries,us,S&P 500,^GSPC,2026-11-14
-CRL,Charles River Laboratories,us,S&P 500,^GSPC,2026-11-14
-SCHW,Charles Schwab Corporation,us,S&P 500,^GSPC,2026-11-14
-CHTR,Charter Communications,us,S&P 500,^GSPC,2026-11-14
-CVX,Chevron Corporation,us,S&P 500,^GSPC,2026-11-14
-CMG,Chipotle Mexican Grill,us,S&P 500,^GSPC,2026-11-14
-CB,Chubb Limited,us,S&P 500,^GSPC,2026-11-14
-CHD,Church & Dwight,us,S&P 500,^GSPC,2026-11-14
-CIEN,Ciena,us,S&P 500,^GSPC,2026-11-14
-CI,Cigna,us,S&P 500,^GSPC,2026-11-14
-CINF,Cincinnati Financial,us,S&P 500,^GSPC,2026-11-14
-CTAS,Cintas,us,S&P 500,^GSPC,2026-11-14
-CSCO,Cisco,us,S&P 500,^GSPC,2026-11-14
-C,Citigroup,us,S&P 500,^GSPC,2026-11-14
-CFG,Citizens Financial Group,us,S&P 500,^GSPC,2026-11-14
-CLX,Clorox,us,S&P 500,^GSPC,2026-11-14
-CME,CME Group,us,S&P 500,^GSPC,2026-11-14
-CMS,CMS Energy,us,S&P 500,^GSPC,2026-11-14
-KO,Coca-Cola Company (The),us,S&P 500,^GSPC,2026-11-14
-CTSH,Cognizant,us,S&P 500,^GSPC,2026-11-14
-COHR,Coherent Corp.,us,S&P 500,^GSPC,2026-11-14
-COIN,Coinbase,us,S&P 500,^GSPC,2026-11-14
-CL,Colgate-Palmolive,us,S&P 500,^GSPC,2026-11-14
-CMCSA,Comcast,us,S&P 500,^GSPC,2026-11-14
-FIX,Comfort Systems USA,us,S&P 500,^GSPC,2026-11-14
-COP,ConocoPhillips,us,S&P 500,^GSPC,2026-11-14
-ED,Consolidated Edison,us,S&P 500,^GSPC,2026-11-14
-STZ,Constellation Brands,us,S&P 500,^GSPC,2026-11-14
-CEG,Constellation Energy,us,S&P 500,^GSPC,2026-11-14
-COO,Cooper Companies (The),us,S&P 500,^GSPC,2026-11-14
-CPRT,Copart,us,S&P 500,^GSPC,2026-11-14
-GLW,Corning Inc.,us,S&P 500,^GSPC,2026-11-14
-CPAY,Corpay,us,S&P 500,^GSPC,2026-11-14
-CSGP,CoStar Group,us,S&P 500,^GSPC,2026-11-14
-COST,Costco,us,S&P 500,^GSPC,2026-11-14
-CRH,CRH plc,us,S&P 500,^GSPC,2026-11-14
-CRWD,CrowdStrike,us,S&P 500,^GSPC,2026-11-14
-CCI,Crown Castle,us,S&P 500,^GSPC,2026-11-14
-CSX,CSX Corporation,us,S&P 500,^GSPC,2026-11-14
-CMI,Cummins,us,S&P 500,^GSPC,2026-11-14
-CVS,CVS Health,us,S&P 500,^GSPC,2026-11-14
-DHR,Danaher Corporation,us,S&P 500,^GSPC,2026-11-14
-DRI,Darden Restaurants,us,S&P 500,^GSPC,2026-11-14
-DDOG,Datadog,us,S&P 500,^GSPC,2026-11-14
-DVA,DaVita,us,S&P 500,^GSPC,2026-11-14
-DECK,Deckers Brands,us,S&P 500,^GSPC,2026-11-14
-DE,Deere & Company,us,S&P 500,^GSPC,2026-11-14
-DELL,Dell Technologies,us,S&P 500,^GSPC,2026-11-14
-DAL,Delta Air Lines,us,S&P 500,^GSPC,2026-11-14
-DVN,Devon Energy,us,S&P 500,^GSPC,2026-11-14
-DXCM,Dexcom,us,S&P 500,^GSPC,2026-11-14
-FANG,Diamondback Energy,us,S&P 500,^GSPC,2026-11-14
-DLR,Digital Realty,us,S&P 500,^GSPC,2026-11-14
-DG,Dollar General,us,S&P 500,^GSPC,2026-11-14
-DLTR,Dollar Tree,us,S&P 500,^GSPC,2026-11-14
-D,Dominion Energy,us,S&P 500,^GSPC,2026-11-14
-DPZ,Domino's,us,S&P 500,^GSPC,2026-11-14
-DASH,DoorDash,us,S&P 500,^GSPC,2026-11-14
-DOV,Dover Corporation,us,S&P 500,^GSPC,2026-11-14
-DOW,Dow Inc.,us,S&P 500,^GSPC,2026-11-14
-DHI,D. R. Horton,us,S&P 500,^GSPC,2026-11-14
-DTE,DTE Energy,us,S&P 500,^GSPC,2026-11-14
-DUK,Duke Energy,us,S&P 500,^GSPC,2026-11-14
-DD,DuPont,us,S&P 500,^GSPC,2026-11-14
-ETN,Eaton Corporation,us,S&P 500,^GSPC,2026-11-14
-EBAY,eBay Inc.,us,S&P 500,^GSPC,2026-11-14
-ECHO,EchoStar,us,S&P 500,^GSPC,2026-11-14
-ECL,Ecolab,us,S&P 500,^GSPC,2026-11-14
-EIX,Edison International,us,S&P 500,^GSPC,2026-11-14
-EW,Edwards Lifesciences,us,S&P 500,^GSPC,2026-11-14
-ELV,Elevance Health,us,S&P 500,^GSPC,2026-11-14
-EME,Emcor,us,S&P 500,^GSPC,2026-11-14
-EMR,Emerson Electric,us,S&P 500,^GSPC,2026-11-14
-ETR,Entergy,us,S&P 500,^GSPC,2026-11-14
-EOG,EOG Resources,us,S&P 500,^GSPC,2026-11-14
-EQT,EQT Corporation,us,S&P 500,^GSPC,2026-11-14
-EFX,Equifax,us,S&P 500,^GSPC,2026-11-14
-EQIX,Equinix,us,S&P 500,^GSPC,2026-11-14
-ERIE,Erie Indemnity,us,S&P 500,^GSPC,2026-11-14
-ESS,Essex Property Trust,us,S&P 500,^GSPC,2026-11-14
-EL,Estée Lauder Companies (The),us,S&P 500,^GSPC,2026-11-14
-EG,Everest Group,us,S&P 500,^GSPC,2026-11-14
-EVRG,Evergy,us,S&P 500,^GSPC,2026-11-14
-P,Everpure,us,S&P 500,^GSPC,2026-11-14
-ES,Eversource Energy,us,S&P 500,^GSPC,2026-11-14
-EXC,Exelon,us,S&P 500,^GSPC,2026-11-14
-EXE,Expand Energy,us,S&P 500,^GSPC,2026-11-14
-EXPE,Expedia Group,us,S&P 500,^GSPC,2026-11-14
-EXPD,Expeditors International,us,S&P 500,^GSPC,2026-11-14
-EXR,Extra Space Storage,us,S&P 500,^GSPC,2026-11-14
-XOM,ExxonMobil,us,S&P 500,^GSPC,2026-11-14
-FFIV,"F5, Inc.",us,S&P 500,^GSPC,2026-11-14
-FDS,FactSet,us,S&P 500,^GSPC,2026-11-14
-FICO,Fair Isaac,us,S&P 500,^GSPC,2026-11-14
-FAST,Fastenal,us,S&P 500,^GSPC,2026-11-14
-FRT,Federal Realty Investment Trust,us,S&P 500,^GSPC,2026-11-14
-FDX,FedEx,us,S&P 500,^GSPC,2026-11-14
-FDXF,FedEx Freight,us,S&P 500,^GSPC,2026-11-14
-FERG,Ferguson Enterprises,us,S&P 500,^GSPC,2026-11-14
-FIS,Fidelity National Information Services,us,S&P 500,^GSPC,2026-11-14
-FITB,Fifth Third Bancorp,us,S&P 500,^GSPC,2026-11-14
-FSLR,First Solar,us,S&P 500,^GSPC,2026-11-14
-FE,FirstEnergy,us,S&P 500,^GSPC,2026-11-14
-FISV,Fiserv,us,S&P 500,^GSPC,2026-11-14
-FLEX,Flex Ltd.,us,S&P 500,^GSPC,2026-11-14
-F,Ford Motor Company,us,S&P 500,^GSPC,2026-11-14
-FTNT,Fortinet,us,S&P 500,^GSPC,2026-11-14
-FTV,Fortive,us,S&P 500,^GSPC,2026-11-14
-FOXA,Fox Corporation (Class A),us,S&P 500,^GSPC,2026-11-14
-FOX,Fox Corporation (Class B),us,S&P 500,^GSPC,2026-11-14
-BEN,Franklin Resources,us,S&P 500,^GSPC,2026-11-14
-FCX,Freeport-McMoRan,us,S&P 500,^GSPC,2026-11-14
-GRMN,Garmin,us,S&P 500,^GSPC,2026-11-14
-IT,Gartner,us,S&P 500,^GSPC,2026-11-14
-GE,GE Aerospace,us,S&P 500,^GSPC,2026-11-14
-GEHC,GE HealthCare,us,S&P 500,^GSPC,2026-11-14
-GEV,GE Vernova,us,S&P 500,^GSPC,2026-11-14
-GEN,Gen Digital,us,S&P 500,^GSPC,2026-11-14
-GNRC,Generac,us,S&P 500,^GSPC,2026-11-14
-GD,General Dynamics,us,S&P 500,^GSPC,2026-11-14
-GIS,General Mills,us,S&P 500,^GSPC,2026-11-14
-GM,General Motors,us,S&P 500,^GSPC,2026-11-14
-GPC,Genuine Parts Company,us,S&P 500,^GSPC,2026-11-14
-GILD,Gilead Sciences,us,S&P 500,^GSPC,2026-11-14
-GPN,Global Payments,us,S&P 500,^GSPC,2026-11-14
-GL,Globe Life,us,S&P 500,^GSPC,2026-11-14
-GDDY,GoDaddy,us,S&P 500,^GSPC,2026-11-14
-GS,Goldman Sachs,us,S&P 500,^GSPC,2026-11-14
-HAL,Halliburton,us,S&P 500,^GSPC,2026-11-14
-HIG,Hartford (The),us,S&P 500,^GSPC,2026-11-14
-HAS,Hasbro,us,S&P 500,^GSPC,2026-11-14
-HCA,HCA Healthcare,us,S&P 500,^GSPC,2026-11-14
-DOC,Healthpeak Properties,us,S&P 500,^GSPC,2026-11-14
-HSIC,Henry Schein,us,S&P 500,^GSPC,2026-11-14
-HSY,Hershey Company (The),us,S&P 500,^GSPC,2026-11-14
-HPE,Hewlett Packard Enterprise,us,S&P 500,^GSPC,2026-11-14
-HLT,Hilton Worldwide,us,S&P 500,^GSPC,2026-11-14
-HD,Home Depot (The),us,S&P 500,^GSPC,2026-11-14
-HONA,Honeywell Aerospace,us,S&P 500,^GSPC,2026-11-14
-HON,Honeywell Technologies,us,S&P 500,^GSPC,2026-11-14
-HRL,Hormel Foods,us,S&P 500,^GSPC,2026-11-14
-HST,Host Hotels & Resorts,us,S&P 500,^GSPC,2026-11-14
-HWM,Howmet Aerospace,us,S&P 500,^GSPC,2026-11-14
-HPQ,HP Inc.,us,S&P 500,^GSPC,2026-11-14
-HUBB,Hubbell Incorporated,us,S&P 500,^GSPC,2026-11-14
-HUM,Humana,us,S&P 500,^GSPC,2026-11-14
-HBAN,Huntington Bancshares,us,S&P 500,^GSPC,2026-11-14
-HII,Huntington Ingalls Industries,us,S&P 500,^GSPC,2026-11-14
-IBM,IBM,us,S&P 500,^GSPC,2026-11-14
-IEX,IDEX Corporation,us,S&P 500,^GSPC,2026-11-14
-IDXX,Idexx Laboratories,us,S&P 500,^GSPC,2026-11-14
-ITW,Illinois Tool Works,us,S&P 500,^GSPC,2026-11-14
-ILMN,"Illumina, Inc.",us,S&P 500,^GSPC,2026-11-14
-INCY,Incyte,us,S&P 500,^GSPC,2026-11-14
-IR,Ingersoll Rand,us,S&P 500,^GSPC,2026-11-14
-PODD,Insulet Corporation,us,S&P 500,^GSPC,2026-11-14
-INTC,Intel,us,S&P 500,^GSPC,2026-11-14
-IBKR,Interactive Brokers,us,S&P 500,^GSPC,2026-11-14
-ICE,Intercontinental Exchange,us,S&P 500,^GSPC,2026-11-14
-IFF,International Flavors & Fragrances,us,S&P 500,^GSPC,2026-11-14
-IP,International Paper,us,S&P 500,^GSPC,2026-11-14
-INTU,Intuit,us,S&P 500,^GSPC,2026-11-14
-ISRG,Intuitive Surgical,us,S&P 500,^GSPC,2026-11-14
-IVZ,Invesco,us,S&P 500,^GSPC,2026-11-14
-INVH,Invitation Homes,us,S&P 500,^GSPC,2026-11-14
-IQV,IQVIA,us,S&P 500,^GSPC,2026-11-14
-IRM,Iron Mountain,us,S&P 500,^GSPC,2026-11-14
-JBHT,J.B. Hunt,us,S&P 500,^GSPC,2026-11-14
-JBL,Jabil,us,S&P 500,^GSPC,2026-11-14
-JKHY,Jack Henry & Associates,us,S&P 500,^GSPC,2026-11-14
-J,Jacobs Solutions,us,S&P 500,^GSPC,2026-11-14
-JNJ,Johnson & Johnson,us,S&P 500,^GSPC,2026-11-14
-JCI,Johnson Controls,us,S&P 500,^GSPC,2026-11-14
-JPM,JPMorgan Chase,us,S&P 500,^GSPC,2026-11-14
-KDP,Keurig Dr Pepper,us,S&P 500,^GSPC,2026-11-14
-KEY,KeyCorp,us,S&P 500,^GSPC,2026-11-14
-KEYS,Keysight Technologies,us,S&P 500,^GSPC,2026-11-14
-KMB,Kimberly-Clark,us,S&P 500,^GSPC,2026-11-14
-KIM,Kimco Realty,us,S&P 500,^GSPC,2026-11-14
-KMI,Kinder Morgan,us,S&P 500,^GSPC,2026-11-14
-KKR,KKR & Co.,us,S&P 500,^GSPC,2026-11-14
-KLAC,KLA Corporation,us,S&P 500,^GSPC,2026-11-14
-KHC,Kraft Heinz,us,S&P 500,^GSPC,2026-11-14
-KR,Kroger,us,S&P 500,^GSPC,2026-11-14
-LHX,L3Harris,us,S&P 500,^GSPC,2026-11-14
-LH,Labcorp,us,S&P 500,^GSPC,2026-11-14
-LRCX,Lam Research,us,S&P 500,^GSPC,2026-11-14
-LVS,Las Vegas Sands,us,S&P 500,^GSPC,2026-11-14
-LDOS,Leidos,us,S&P 500,^GSPC,2026-11-14
-LEN,Lennar,us,S&P 500,^GSPC,2026-11-14
-LII,Lennox International,us,S&P 500,^GSPC,2026-11-14
-LLY,Lilly (Eli),us,S&P 500,^GSPC,2026-11-14
-LIN,Linde plc,us,S&P 500,^GSPC,2026-11-14
-LYV,Live Nation Entertainment,us,S&P 500,^GSPC,2026-11-14
-LMT,Lockheed Martin,us,S&P 500,^GSPC,2026-11-14
-L,Loews Corporation,us,S&P 500,^GSPC,2026-11-14
-LOW,Lowe's,us,S&P 500,^GSPC,2026-11-14
-LULU,Lululemon Athletica,us,S&P 500,^GSPC,2026-11-14
-LITE,Lumentum,us,S&P 500,^GSPC,2026-11-14
-LYB,LyondellBasell,us,S&P 500,^GSPC,2026-11-14
-MTB,M&T Bank,us,S&P 500,^GSPC,2026-11-14
-MPC,Marathon Petroleum,us,S&P 500,^GSPC,2026-11-14
-MAR,Marriott International,us,S&P 500,^GSPC,2026-11-14
-MRSH,Marsh McLennan,us,S&P 500,^GSPC,2026-11-14
-MLM,Martin Marietta Materials,us,S&P 500,^GSPC,2026-11-14
-MRVL,Marvell Technology,us,S&P 500,^GSPC,2026-11-14
-MAS,Masco,us,S&P 500,^GSPC,2026-11-14
-MA,Mastercard,us,S&P 500,^GSPC,2026-11-14
-MKC,McCormick & Company,us,S&P 500,^GSPC,2026-11-14
-MCD,McDonald's,us,S&P 500,^GSPC,2026-11-14
-MCK,McKesson,us,S&P 500,^GSPC,2026-11-14
-MDT,Medtronic,us,S&P 500,^GSPC,2026-11-14
-MRK,Merck & Co.,us,S&P 500,^GSPC,2026-11-14
-META,Meta Platforms,us,S&P 500,^GSPC,2026-11-14
-MET,MetLife,us,S&P 500,^GSPC,2026-11-14
-MTD,Mettler Toledo,us,S&P 500,^GSPC,2026-11-14
-MGM,MGM Resorts,us,S&P 500,^GSPC,2026-11-14
-MCHP,Microchip Technology,us,S&P 500,^GSPC,2026-11-14
-MU,Micron Technology,us,S&P 500,^GSPC,2026-11-14
-MSFT,Microsoft,us,S&P 500,^GSPC,2026-11-14
-MAA,Mid-America Apartment Communities,us,S&P 500,^GSPC,2026-11-14
-MRNA,Moderna,us,S&P 500,^GSPC,2026-11-14
-MDLZ,Mondelez International,us,S&P 500,^GSPC,2026-11-14
-MPWR,Monolithic Power Systems,us,S&P 500,^GSPC,2026-11-14
-MNST,Monster Beverage,us,S&P 500,^GSPC,2026-11-14
-MCO,Moody's Corporation,us,S&P 500,^GSPC,2026-11-14
-MS,Morgan Stanley,us,S&P 500,^GSPC,2026-11-14
-MOS,Mosaic Company (The),us,S&P 500,^GSPC,2026-11-14
-MSI,Motorola Solutions,us,S&P 500,^GSPC,2026-11-14
-MSCI,MSCI,us,S&P 500,^GSPC,2026-11-14
-NDAQ,"Nasdaq, Inc.",us,S&P 500,^GSPC,2026-11-14
-NTAP,NetApp,us,S&P 500,^GSPC,2026-11-14
-NFLX,Netflix,us,S&P 500,^GSPC,2026-11-14
-NEM,Newmont,us,S&P 500,^GSPC,2026-11-14
-NWSA,News Corp (Class A),us,S&P 500,^GSPC,2026-11-14
-NWS,News Corp (Class B),us,S&P 500,^GSPC,2026-11-14
-NEE,NextEra Energy,us,S&P 500,^GSPC,2026-11-14
-NKE,"Nike, Inc.",us,S&P 500,^GSPC,2026-11-14
-NI,NiSource,us,S&P 500,^GSPC,2026-11-14
-NDSN,Nordson Corporation,us,S&P 500,^GSPC,2026-11-14
-NSC,Norfolk Southern,us,S&P 500,^GSPC,2026-11-14
-NTRS,Northern Trust,us,S&P 500,^GSPC,2026-11-14
-NOC,Northrop Grumman,us,S&P 500,^GSPC,2026-11-14
-NCLH,Norwegian Cruise Line Holdings,us,S&P 500,^GSPC,2026-11-14
-NRG,NRG Energy,us,S&P 500,^GSPC,2026-11-14
-NUE,Nucor,us,S&P 500,^GSPC,2026-11-14
-NVDA,Nvidia,us,S&P 500,^GSPC,2026-11-14
-NVR,"NVR, Inc.",us,S&P 500,^GSPC,2026-11-14
-NXPI,NXP Semiconductors,us,S&P 500,^GSPC,2026-11-14
-ORLY,O'Reilly Automotive,us,S&P 500,^GSPC,2026-11-14
-OXY,Occidental Petroleum,us,S&P 500,^GSPC,2026-11-14
-OKTA,"Okta, Inc.",us,S&P 500,^GSPC,2026-11-14
-ODFL,Old Dominion,us,S&P 500,^GSPC,2026-11-14
-OMC,Omnicom Group,us,S&P 500,^GSPC,2026-11-14
-ON,ON Semiconductor,us,S&P 500,^GSPC,2026-11-14
-OKE,Oneok,us,S&P 500,^GSPC,2026-11-14
-ORCL,Oracle Corporation,us,S&P 500,^GSPC,2026-11-14
-OTIS,Otis Worldwide,us,S&P 500,^GSPC,2026-11-14
-PCAR,Paccar,us,S&P 500,^GSPC,2026-11-14
-PKG,Packaging Corporation of America,us,S&P 500,^GSPC,2026-11-14
-PLTR,Palantir Technologies,us,S&P 500,^GSPC,2026-11-14
-PANW,Palo Alto Networks,us,S&P 500,^GSPC,2026-11-14
-PH,Parker Hannifin,us,S&P 500,^GSPC,2026-11-14
-PAYX,Paychex,us,S&P 500,^GSPC,2026-11-14
-PYPL,PayPal,us,S&P 500,^GSPC,2026-11-14
-PNR,Pentair,us,S&P 500,^GSPC,2026-11-14
-PEP,PepsiCo,us,S&P 500,^GSPC,2026-11-14
-PFE,Pfizer,us,S&P 500,^GSPC,2026-11-14
-PCG,PG&E Corporation,us,S&P 500,^GSPC,2026-11-14
-PM,Philip Morris International,us,S&P 500,^GSPC,2026-11-14
-PSX,Phillips 66,us,S&P 500,^GSPC,2026-11-14
-PNW,Pinnacle West Capital,us,S&P 500,^GSPC,2026-11-14
-PNC,PNC Financial Services,us,S&P 500,^GSPC,2026-11-14
-PPG,PPG Industries,us,S&P 500,^GSPC,2026-11-14
-PPL,PPL Corporation,us,S&P 500,^GSPC,2026-11-14
-PFG,Principal Financial Group,us,S&P 500,^GSPC,2026-11-14
-PG,Procter & Gamble,us,S&P 500,^GSPC,2026-11-14
-PGR,Progressive Corporation,us,S&P 500,^GSPC,2026-11-14
-PLD,Prologis,us,S&P 500,^GSPC,2026-11-14
-PRU,Prudential Financial,us,S&P 500,^GSPC,2026-11-14
-PTC,PTC Inc.,us,S&P 500,^GSPC,2026-11-14
-PEG,Public Service Enterprise Group,us,S&P 500,^GSPC,2026-11-14
-PSA,Public Storage,us,S&P 500,^GSPC,2026-11-14
-PHM,PulteGroup,us,S&P 500,^GSPC,2026-11-14
-Q,Qnity Electronics,us,S&P 500,^GSPC,2026-11-14
-QCOM,Qualcomm,us,S&P 500,^GSPC,2026-11-14
-PWR,Quanta Services,us,S&P 500,^GSPC,2026-11-14
-DGX,Quest Diagnostics,us,S&P 500,^GSPC,2026-11-14
-RL,Ralph Lauren Corporation,us,S&P 500,^GSPC,2026-11-14
-RJF,Raymond James Financial,us,S&P 500,^GSPC,2026-11-14
-RDDT,Reddit,us,S&P 500,^GSPC,2026-11-14
-O,Realty Income,us,S&P 500,^GSPC,2026-11-14
-REG,Regency Centers,us,S&P 500,^GSPC,2026-11-14
-REGN,Regeneron Pharmaceuticals,us,S&P 500,^GSPC,2026-11-14
-RF,Regions Financial Corporation,us,S&P 500,^GSPC,2026-11-14
-RSG,Republic Services,us,S&P 500,^GSPC,2026-11-14
-RMD,ResMed,us,S&P 500,^GSPC,2026-11-14
-RVTY,Revvity,us,S&P 500,^GSPC,2026-11-14
-HOOD,Robinhood Markets,us,S&P 500,^GSPC,2026-11-14
-ROK,Rockwell Automation,us,S&P 500,^GSPC,2026-11-14
-ROL,"Rollins, Inc.",us,S&P 500,^GSPC,2026-11-14
-ROP,Roper Technologies,us,S&P 500,^GSPC,2026-11-14
-ROST,Ross Stores,us,S&P 500,^GSPC,2026-11-14
-RCL,Royal Caribbean Group,us,S&P 500,^GSPC,2026-11-14
-RTX,RTX Corporation,us,S&P 500,^GSPC,2026-11-14
-SPGI,S&P Global,us,S&P 500,^GSPC,2026-11-14
-CRM,Salesforce,us,S&P 500,^GSPC,2026-11-14
-SNDK,Sandisk,us,S&P 500,^GSPC,2026-11-14
-SBAC,SBA Communications,us,S&P 500,^GSPC,2026-11-14
-SLB,Schlumberger,us,S&P 500,^GSPC,2026-11-14
-STX,Seagate Technology,us,S&P 500,^GSPC,2026-11-14
-SRE,Sempra,us,S&P 500,^GSPC,2026-11-14
-NOW,ServiceNow,us,S&P 500,^GSPC,2026-11-14
-SHW,Sherwin-Williams,us,S&P 500,^GSPC,2026-11-14
-SPG,Simon Property Group,us,S&P 500,^GSPC,2026-11-14
-SKYD,Skydance,us,S&P 500,^GSPC,2026-11-14
-SWKS,Skyworks Solutions,us,S&P 500,^GSPC,2026-11-14
-SJM,J.M. Smucker Company (The),us,S&P 500,^GSPC,2026-11-14
-SW,Smurfit Westrock,us,S&P 500,^GSPC,2026-11-14
-SNA,Snap-on,us,S&P 500,^GSPC,2026-11-14
-SOLV,Solventum,us,S&P 500,^GSPC,2026-11-14
-SO,Southern Company,us,S&P 500,^GSPC,2026-11-14
-LUV,Southwest Airlines,us,S&P 500,^GSPC,2026-11-14
-SWK,Stanley Black & Decker,us,S&P 500,^GSPC,2026-11-14
-SBUX,Starbucks,us,S&P 500,^GSPC,2026-11-14
-STT,State Street Corporation,us,S&P 500,^GSPC,2026-11-14
-STLD,Steel Dynamics,us,S&P 500,^GSPC,2026-11-14
-STE,Steris,us,S&P 500,^GSPC,2026-11-14
-SYK,Stryker Corporation,us,S&P 500,^GSPC,2026-11-14
-SMCI,Supermicro,us,S&P 500,^GSPC,2026-11-14
-SYF,Synchrony Financial,us,S&P 500,^GSPC,2026-11-14
-SNPS,Synopsys,us,S&P 500,^GSPC,2026-11-14
-SYY,Sysco,us,S&P 500,^GSPC,2026-11-14
-TMUS,T-Mobile US,us,S&P 500,^GSPC,2026-11-14
-TROW,T. Rowe Price,us,S&P 500,^GSPC,2026-11-14
-TTWO,Take-Two Interactive,us,S&P 500,^GSPC,2026-11-14
-TPR,"Tapestry, Inc.",us,S&P 500,^GSPC,2026-11-14
-TRGP,Targa Resources,us,S&P 500,^GSPC,2026-11-14
-TGT,Target Corporation,us,S&P 500,^GSPC,2026-11-14
-TEL,TE Connectivity,us,S&P 500,^GSPC,2026-11-14
-TDY,Teledyne Technologies,us,S&P 500,^GSPC,2026-11-14
-TER,Teradyne,us,S&P 500,^GSPC,2026-11-14
-TSLA,"Tesla, Inc.",us,S&P 500,^GSPC,2026-11-14
-TXN,Texas Instruments,us,S&P 500,^GSPC,2026-11-14
-TPL,Texas Pacific Land Corporation,us,S&P 500,^GSPC,2026-11-14
-TXT,Textron,us,S&P 500,^GSPC,2026-11-14
-TMO,Thermo Fisher Scientific,us,S&P 500,^GSPC,2026-11-14
-TJX,TJX Companies,us,S&P 500,^GSPC,2026-11-14
-TKO,TKO Group Holdings,us,S&P 500,^GSPC,2026-11-14
-TSCO,Tractor Supply,us,S&P 500,^GSPC,2026-11-14
-TT,Trane Technologies,us,S&P 500,^GSPC,2026-11-14
-TDG,TransDigm Group,us,S&P 500,^GSPC,2026-11-14
-TRV,Travelers Companies (The),us,S&P 500,^GSPC,2026-11-14
-TRMB,Trimble Inc.,us,S&P 500,^GSPC,2026-11-14
-TFC,Truist Financial,us,S&P 500,^GSPC,2026-11-14
-TWLO,Twilio,us,S&P 500,^GSPC,2026-11-14
-TYL,Tyler Technologies,us,S&P 500,^GSPC,2026-11-14
-TSN,Tyson Foods,us,S&P 500,^GSPC,2026-11-14
-USB,U.S. Bancorp,us,S&P 500,^GSPC,2026-11-14
-UBER,Uber,us,S&P 500,^GSPC,2026-11-14
-UDR,"UDR, Inc.",us,S&P 500,^GSPC,2026-11-14
-ULTA,Ulta Beauty,us,S&P 500,^GSPC,2026-11-14
-UNP,Union Pacific Corporation,us,S&P 500,^GSPC,2026-11-14
-UAL,United Airlines Holdings,us,S&P 500,^GSPC,2026-11-14
-UPS,United Parcel Service,us,S&P 500,^GSPC,2026-11-14
-URI,United Rentals,us,S&P 500,^GSPC,2026-11-14
-UNH,UnitedHealth Group,us,S&P 500,^GSPC,2026-11-14
-UHS,Universal Health Services,us,S&P 500,^GSPC,2026-11-14
-VLO,Valero Energy,us,S&P 500,^GSPC,2026-11-14
-VEEV,Veeva Systems,us,S&P 500,^GSPC,2026-11-14
-VTR,Ventas,us,S&P 500,^GSPC,2026-11-14
-VLTO,Veralto,us,S&P 500,^GSPC,2026-11-14
-VRSN,Verisign,us,S&P 500,^GSPC,2026-11-14
-VRSK,Verisk Analytics,us,S&P 500,^GSPC,2026-11-14
-VZ,Verizon,us,S&P 500,^GSPC,2026-11-14
-VRTX,Vertex Pharmaceuticals,us,S&P 500,^GSPC,2026-11-14
-VRT,Vertiv,us,S&P 500,^GSPC,2026-11-14
-VTRS,Viatris,us,S&P 500,^GSPC,2026-11-14
-VICI,Vici Properties,us,S&P 500,^GSPC,2026-11-14
-V,Visa Inc.,us,S&P 500,^GSPC,2026-11-14
-VST,Vistra Corp.,us,S&P 500,^GSPC,2026-11-14
-VMRK,Vivmark Residential,us,S&P 500,^GSPC,2026-11-14
-VMC,Vulcan Materials Company,us,S&P 500,^GSPC,2026-11-14
-VYLR,Vylor,us,S&P 500,^GSPC,2026-11-14
-WRB,W. R. Berkley Corporation,us,S&P 500,^GSPC,2026-11-14
-GWW,W. W. Grainger,us,S&P 500,^GSPC,2026-11-14
-WAB,Wabtec,us,S&P 500,^GSPC,2026-11-14
-WMT,Walmart,us,S&P 500,^GSPC,2026-11-14
-DIS,Walt Disney Company (The),us,S&P 500,^GSPC,2026-11-14
-WM,Waste Management,us,S&P 500,^GSPC,2026-11-14
-WAT,Waters Corporation,us,S&P 500,^GSPC,2026-11-14
-WEC,WEC Energy Group,us,S&P 500,^GSPC,2026-11-14
-WFC,Wells Fargo,us,S&P 500,^GSPC,2026-11-14
-WELL,Welltower,us,S&P 500,^GSPC,2026-11-14
-WST,West Pharmaceutical Services,us,S&P 500,^GSPC,2026-11-14
-WDC,Western Digital,us,S&P 500,^GSPC,2026-11-14
-WY,Weyerhaeuser,us,S&P 500,^GSPC,2026-11-14
-WSM,"Williams-Sonoma, Inc.",us,S&P 500,^GSPC,2026-11-14
-WMB,Williams Companies,us,S&P 500,^GSPC,2026-11-14
-WTW,Willis Towers Watson,us,S&P 500,^GSPC,2026-11-14
-WDAY,"Workday, Inc.",us,S&P 500,^GSPC,2026-11-14
-WYNN,Wynn Resorts,us,S&P 500,^GSPC,2026-11-14
-XEL,Xcel Energy,us,S&P 500,^GSPC,2026-11-14
-XYL,Xylem Inc.,us,S&P 500,^GSPC,2026-11-14
-YUM,Yum! Brands,us,S&P 500,^GSPC,2026-11-14
-ZBRA,Zebra Technologies,us,S&P 500,^GSPC,2026-11-14
-ZBH,Zimmer Biomet,us,S&P 500,^GSPC,2026-11-14
-ZTS,Zoetis,us,S&P 500,^GSPC,2026-11-14
-ALAB,Astera Labs,us,Nasdaq 100,^NDX,2026-11-14
-ALNY,Alnylam Pharmaceuticals,us,Nasdaq 100,^NDX,2026-11-14
-ARM,ARM Holdings,us,Nasdaq 100,^NDX,2026-11-14
-ASML,ASML Holding,us,Nasdaq 100,^NDX,2026-11-14
-CCEP,Coca-Cola Europacific Partners,us,Nasdaq 100,^NDX,2026-11-14
-CRWV,CoreWeave,us,Nasdaq 100,^NDX,2026-11-14
-FER,Ferrovial,us,Nasdaq 100,^NDX,2026-11-14
-"GOOG,",Alphabet Inc.,us,Nasdaq 100,^NDX,2026-11-14
-MELI,MercadoLibre,us,Nasdaq 100,^NDX,2026-11-14
-MSTR,Strategy,us,Nasdaq 100,^NDX,2026-11-14
-NBIS,Nebius Group,us,Nasdaq 100,^NDX,2026-11-14
-PDD,Pinduoduo,us,Nasdaq 100,^NDX,2026-11-14
-RLAB,Rocket Lab,us,Nasdaq 100,^NDX,2026-11-14
-SHOP,Shopify,us,Nasdaq 100,^NDX,2026-11-14
-SPCX,SpaceX,us,Nasdaq 100,^NDX,2026-11-14
-TRI,Thomson Reuters,us,Nasdaq 100,^NDX,2026-11-14
+ADS.DE,Adidas,de,DAX,^GDAXI,2026-11-23
+AIR.PA,Airbus,de,DAX,^GDAXI,2026-11-23
+ALV.DE,Allianz,de,DAX,^GDAXI,2026-11-23
+BAS.DE,BASF,de,DAX,^GDAXI,2026-11-23
+BAYN.DE,Bayer,de,DAX,^GDAXI,2026-11-23
+BEI.DE,Beiersdorf,de,DAX,^GDAXI,2026-11-23
+BMW.DE,BMW,de,DAX,^GDAXI,2026-11-23
+BNR.DE,Brenntag,de,DAX,^GDAXI,2026-11-23
+CBK.DE,Commerzbank,de,DAX,^GDAXI,2026-11-23
+CON.DE,Continental,de,DAX,^GDAXI,2026-11-23
+DTG.DE,Daimler Truck,de,DAX,^GDAXI,2026-11-23
+DBK.DE,Deutsche Bank,de,DAX,^GDAXI,2026-11-23
+DB1.DE,Deutsche Börse,de,DAX,^GDAXI,2026-11-23
+DHL.DE,Deutsche Post,de,DAX,^GDAXI,2026-11-23
+DTE.DE,Deutsche Telekom,de,DAX,^GDAXI,2026-11-23
+EOAN.DE,E.ON,de,DAX,^GDAXI,2026-11-23
+FRE.DE,Fresenius,de,DAX,^GDAXI,2026-11-23
+FME.DE,Fresenius Medical Care,de,DAX,^GDAXI,2026-11-23
+G1A.DE,GEA Group,de,DAX,^GDAXI,2026-11-23
+HNR1.DE,Hannover Re,de,DAX,^GDAXI,2026-11-23
+HEI.DE,Heidelberg Materials,de,DAX,^GDAXI,2026-11-23
+HEN3.DE,Henkel,de,DAX,^GDAXI,2026-11-23
+IFX.DE,Infineon Technologies,de,DAX,^GDAXI,2026-11-23
+MBG.DE,Mercedes-Benz Group,de,DAX,^GDAXI,2026-11-23
+MRK.DE,Merck,de,DAX,^GDAXI,2026-11-23
+MTX.DE,MTU Aero Engines,de,DAX,^GDAXI,2026-11-23
+MUV2.DE,Munich Re,de,DAX,^GDAXI,2026-11-23
+PAH3.DE,Porsche SE,de,DAX,^GDAXI,2026-11-23
+QIA.DE,Qiagen,de,DAX,^GDAXI,2026-11-23
+RHM.DE,Rheinmetall,de,DAX,^GDAXI,2026-11-23
+RWE.DE,RWE,de,DAX,^GDAXI,2026-11-23
+SAP.DE,SAP,de,DAX,^GDAXI,2026-11-23
+G24.DE,Scout24,de,DAX,^GDAXI,2026-11-23
+SIE.DE,Siemens,de,DAX,^GDAXI,2026-11-23
+ENR.DE,Siemens Energy,de,DAX,^GDAXI,2026-11-23
+SHL.DE,Siemens Healthineers,de,DAX,^GDAXI,2026-11-23
+SY1.DE,Symrise,de,DAX,^GDAXI,2026-11-23
+VOW3.DE,Volkswagen Group,de,DAX,^GDAXI,2026-11-23
+VNA.DE,Vonovia,de,DAX,^GDAXI,2026-11-23
+ZAL.DE,Zalando,de,DAX,^GDAXI,2026-11-23
+AIXA.DE,Aixtron,de,MDAX,^MDAXI,2026-11-23
+AT1.DE,Aroundtown,de,MDAX,^MDAXI,2026-11-23
+NDA.DE,Aurubis,de,MDAX,^MDAXI,2026-11-23
+BC8.DE,Bechtle,de,MDAX,^MDAXI,2026-11-23
+BFSA.DE,Befesa,de,MDAX,^MDAXI,2026-11-23
+GBF.DE,Bilfinger,de,MDAX,^MDAXI,2026-11-23
+AFX.DE,Carl Zeiss Meditec,de,MDAX,^MDAXI,2026-11-23
+EVD.DE,CTS Eventim,de,MDAX,^MDAXI,2026-11-23
+DHER.DE,Delivery Hero,de,MDAX,^MDAXI,2026-11-23
+LHA.DE,Lufthansa,de,MDAX,^MDAXI,2026-11-23
+ECV.DE,Encavis,de,MDAX,^MDAXI,2026-11-23
+EVK.DE,Evonik,de,MDAX,^MDAXI,2026-11-23
+EVT.DE,Evotec,de,MDAX,^MDAXI,2026-11-23
+FRA.DE,Fraport,de,MDAX,^MDAXI,2026-11-23
+FNTN.DE,Freenet,de,MDAX,^MDAXI,2026-11-23
+FPE3.DE,Fuchs Petrolub,de,MDAX,^MDAXI,2026-11-23
+GXI.DE,Gerresheimer,de,MDAX,^MDAXI,2026-11-23
+HLE.DE,Hella,de,MDAX,^MDAXI,2026-11-23
+HFG.DE,HelloFresh,de,MDAX,^MDAXI,2026-11-23
+HAG.DE,Hensoldt,de,MDAX,^MDAXI,2026-11-23
+HOT.DE,Hochtief,de,MDAX,^MDAXI,2026-11-23
+BOSS.DE,Hugo Boss,de,MDAX,^MDAXI,2026-11-23
+JEN.DE,Jenoptik,de,MDAX,^MDAXI,2026-11-23
+JUN3.DE,Jungheinrich,de,MDAX,^MDAXI,2026-11-23
+SDF.DE,K+S,de,MDAX,^MDAXI,2026-11-23
+KGX.DE,KION Group,de,MDAX,^MDAXI,2026-11-23
+KBX.DE,Knorr-Bremse,de,MDAX,^MDAXI,2026-11-23
+KRN.DE,Krones,de,MDAX,^MDAXI,2026-11-23
+LXS.DE,Lanxess,de,MDAX,^MDAXI,2026-11-23
+LEG.DE,LEG Immobilien,de,MDAX,^MDAXI,2026-11-23
+NEM.DE,Nemetschek,de,MDAX,^MDAXI,2026-11-23
+NDX1.DE,Nordex,de,MDAX,^MDAXI,2026-11-23
+PUM.DE,Puma,de,MDAX,^MDAXI,2026-11-23
+RAA.DE,Rational,de,MDAX,^MDAXI,2026-11-23
+RDC.DE,Redcare Pharmacy,de,MDAX,^MDAXI,2026-11-23
+RRTL.DE,RTL Group,de,MDAX,^MDAXI,2026-11-23
+WAF.DE,Siltronic,de,MDAX,^MDAXI,2026-11-23
+STM.DE,Stabilus,de,MDAX,^MDAXI,2026-11-23
+SAX.DE,Ströer,de,MDAX,^MDAXI,2026-11-23
+TEG.DE,TAG Tegernsee Immobilien und Beteiligung,de,MDAX,^MDAXI,2026-11-23
+TLX.DE,Talanx,de,MDAX,^MDAXI,2026-11-23
+TMV.DE,TeamViewer,de,MDAX,^MDAXI,2026-11-23
+TKA.DE,ThyssenKrupp,de,MDAX,^MDAXI,2026-11-23
+8TRA.DE,Traton,de,MDAX,^MDAXI,2026-11-23
+TUI1.DE,TUI,de,MDAX,^MDAXI,2026-11-23
+UTDI.DE,United Internet,de,MDAX,^MDAXI,2026-11-23
+WCH.DE,Wacker Chemie,de,MDAX,^MDAXI,2026-11-23
+AOF.DE,Atoss Software AG,de,TecDAX,^TECDAX,2026-11-23
+DRW3.DE,Drägerwerk AG & Co. KGaA,de,TecDAX,^TECDAX,2026-11-23
+EUZ.DE,Eckert & Ziegler Strahlen- und Medizintechnik AG,de,TecDAX,^TECDAX,2026-11-23
+ELG.DE,Elmos Semiconductor SE,de,TecDAX,^TECDAX,2026-11-23
+IOS.DE,Ionos SE,de,TecDAX,^TECDAX,2026-11-23
+KTN.DE,Kontron AG,de,TecDAX,^TECDAX,2026-11-23
+OHB.DE,OHB SE,de,TecDAX,^TECDAX,2026-11-23
+OBCK.DE,Ottobock SE & Co. KGaA,de,TecDAX,^TECDAX,2026-11-23
+TPE.DE,PVA TePla AG,de,TecDAX,^TECDAX,2026-11-23
+SRT3.DE,Sartorius AG,de,TecDAX,^TECDAX,2026-11-23
+S92.DE,SMA Solar Technology AG,de,TecDAX,^TECDAX,2026-11-23
+SMHN.DE,Suss Microtec SE,de,TecDAX,^TECDAX,2026-11-23
+VBK.DE,Verbio SE,de,TecDAX,^TECDAX,2026-11-23
+MMM,3M,us,S&P 500,^GSPC,2026-11-23
+AOS,A. O. Smith,us,S&P 500,^GSPC,2026-11-23
+ABT,Abbott Laboratories,us,S&P 500,^GSPC,2026-11-23
+ABBV,AbbVie,us,S&P 500,^GSPC,2026-11-23
+ACN,Accenture,us,S&P 500,^GSPC,2026-11-23
+ADBE,Adobe Inc.,us,S&P 500,^GSPC,2026-11-23
+AMD,Advanced Micro Devices,us,S&P 500,^GSPC,2026-11-23
+AES,AES Corporation,us,S&P 500,^GSPC,2026-11-23
+AFL,Aflac,us,S&P 500,^GSPC,2026-11-23
+A,Agilent Technologies,us,S&P 500,^GSPC,2026-11-23
+APD,Air Products,us,S&P 500,^GSPC,2026-11-23
+ABNB,Airbnb,us,S&P 500,^GSPC,2026-11-23
+AKAM,Akamai Technologies,us,S&P 500,^GSPC,2026-11-23
+ALB,Albemarle Corporation,us,S&P 500,^GSPC,2026-11-23
+ARE,Alexandria Real Estate Equities,us,S&P 500,^GSPC,2026-11-23
+ALGN,Align Technology,us,S&P 500,^GSPC,2026-11-23
+ALLE,Allegion,us,S&P 500,^GSPC,2026-11-23
+LNT,Alliant Energy,us,S&P 500,^GSPC,2026-11-23
+ALL,Allstate,us,S&P 500,^GSPC,2026-11-23
+GOOGL,Alphabet Inc. (Class A),us,S&P 500,^GSPC,2026-11-23
+GOOG,Alphabet Inc. (Class C),us,S&P 500,^GSPC,2026-11-23
+MO,Altria,us,S&P 500,^GSPC,2026-11-23
+AMZN,Amazon,us,S&P 500,^GSPC,2026-11-23
+AMCR,Amcor,us,S&P 500,^GSPC,2026-11-23
+AEE,Ameren,us,S&P 500,^GSPC,2026-11-23
+AEP,American Electric Power,us,S&P 500,^GSPC,2026-11-23
+AXP,American Express,us,S&P 500,^GSPC,2026-11-23
+AIG,American International Group,us,S&P 500,^GSPC,2026-11-23
+AMT,American Tower,us,S&P 500,^GSPC,2026-11-23
+AWK,American Water Works,us,S&P 500,^GSPC,2026-11-23
+AMP,Ameriprise Financial,us,S&P 500,^GSPC,2026-11-23
+AME,Ametek,us,S&P 500,^GSPC,2026-11-23
+AMGN,Amgen,us,S&P 500,^GSPC,2026-11-23
+APH,Amphenol,us,S&P 500,^GSPC,2026-11-23
+ADI,Analog Devices,us,S&P 500,^GSPC,2026-11-23
+AON,Aon plc,us,S&P 500,^GSPC,2026-11-23
+APA,APA Corporation,us,S&P 500,^GSPC,2026-11-23
+APO,Apollo Global Management,us,S&P 500,^GSPC,2026-11-23
+AAPL,Apple Inc.,us,S&P 500,^GSPC,2026-11-23
+AMAT,Applied Materials,us,S&P 500,^GSPC,2026-11-23
+APP,AppLovin,us,S&P 500,^GSPC,2026-11-23
+APTV,Aptiv,us,S&P 500,^GSPC,2026-11-23
+ACGL,Arch Capital Group,us,S&P 500,^GSPC,2026-11-23
+ADM,Archer Daniels Midland,us,S&P 500,^GSPC,2026-11-23
+ARES,Ares Management,us,S&P 500,^GSPC,2026-11-23
+ANET,Arista Networks,us,S&P 500,^GSPC,2026-11-23
+AJG,Arthur J. Gallagher & Co.,us,S&P 500,^GSPC,2026-11-23
+AIZ,Assurant,us,S&P 500,^GSPC,2026-11-23
+T,AT&T,us,S&P 500,^GSPC,2026-11-23
+ATO,Atmos Energy,us,S&P 500,^GSPC,2026-11-23
+ADSK,Autodesk,us,S&P 500,^GSPC,2026-11-23
+ADP,Automatic Data Processing,us,S&P 500,^GSPC,2026-11-23
+AZO,AutoZone,us,S&P 500,^GSPC,2026-11-23
+AVY,Avery Dennison,us,S&P 500,^GSPC,2026-11-23
+AXON,Axon Enterprise,us,S&P 500,^GSPC,2026-11-23
+BKR,Baker Hughes,us,S&P 500,^GSPC,2026-11-23
+BALL,Ball Corporation,us,S&P 500,^GSPC,2026-11-23
+BAC,Bank of America,us,S&P 500,^GSPC,2026-11-23
+BAX,Baxter International,us,S&P 500,^GSPC,2026-11-23
+BDX,Becton Dickinson,us,S&P 500,^GSPC,2026-11-23
+BRK-B,Berkshire Hathaway,us,S&P 500,^GSPC,2026-11-23
+BBY,Best Buy,us,S&P 500,^GSPC,2026-11-23
+TECH,Bio-Techne,us,S&P 500,^GSPC,2026-11-23
+BIIB,Biogen,us,S&P 500,^GSPC,2026-11-23
+BLK,BlackRock,us,S&P 500,^GSPC,2026-11-23
+BX,Blackstone Inc.,us,S&P 500,^GSPC,2026-11-23
+XYZ,"Block, Inc.",us,S&P 500,^GSPC,2026-11-23
+BE,Bloom Energy,us,S&P 500,^GSPC,2026-11-23
+BNY,BNY Mellon,us,S&P 500,^GSPC,2026-11-23
+BA,Boeing,us,S&P 500,^GSPC,2026-11-23
+BKNG,Booking Holdings,us,S&P 500,^GSPC,2026-11-23
+BSX,Boston Scientific,us,S&P 500,^GSPC,2026-11-23
+BMY,Bristol Myers Squibb,us,S&P 500,^GSPC,2026-11-23
+AVGO,Broadcom,us,S&P 500,^GSPC,2026-11-23
+BR,Broadridge Financial Solutions,us,S&P 500,^GSPC,2026-11-23
+BRO,Brown & Brown,us,S&P 500,^GSPC,2026-11-23
+BF-B,Brown–Forman,us,S&P 500,^GSPC,2026-11-23
+BG,Bunge Global,us,S&P 500,^GSPC,2026-11-23
+BXP,"BXP, Inc.",us,S&P 500,^GSPC,2026-11-23
+CHRW,C.H. Robinson,us,S&P 500,^GSPC,2026-11-23
+CDNS,Cadence Design Systems,us,S&P 500,^GSPC,2026-11-23
+CPT,Camden Property Trust,us,S&P 500,^GSPC,2026-11-23
+COF,Capital One,us,S&P 500,^GSPC,2026-11-23
+CAH,Cardinal Health,us,S&P 500,^GSPC,2026-11-23
+CCL,Carnival Corporation,us,S&P 500,^GSPC,2026-11-23
+CARR,Carrier Global,us,S&P 500,^GSPC,2026-11-23
+CVNA,Carvana,us,S&P 500,^GSPC,2026-11-23
+CASY,Casey's,us,S&P 500,^GSPC,2026-11-23
+CAT,Caterpillar Inc.,us,S&P 500,^GSPC,2026-11-23
+CBOE,Cboe Global Markets,us,S&P 500,^GSPC,2026-11-23
+CBRE,CBRE Group,us,S&P 500,^GSPC,2026-11-23
+CDW,CDW Corporation,us,S&P 500,^GSPC,2026-11-23
+COR,Cencora,us,S&P 500,^GSPC,2026-11-23
+CNC,Centene Corporation,us,S&P 500,^GSPC,2026-11-23
+CNP,CenterPoint Energy,us,S&P 500,^GSPC,2026-11-23
+CF,CF Industries,us,S&P 500,^GSPC,2026-11-23
+CRL,Charles River Laboratories,us,S&P 500,^GSPC,2026-11-23
+SCHW,Charles Schwab Corporation,us,S&P 500,^GSPC,2026-11-23
+CHTR,Charter Communications,us,S&P 500,^GSPC,2026-11-23
+CVX,Chevron Corporation,us,S&P 500,^GSPC,2026-11-23
+CMG,Chipotle Mexican Grill,us,S&P 500,^GSPC,2026-11-23
+CB,Chubb Limited,us,S&P 500,^GSPC,2026-11-23
+CHD,Church & Dwight,us,S&P 500,^GSPC,2026-11-23
+CIEN,Ciena,us,S&P 500,^GSPC,2026-11-23
+CI,Cigna,us,S&P 500,^GSPC,2026-11-23
+CINF,Cincinnati Financial,us,S&P 500,^GSPC,2026-11-23
+CTAS,Cintas,us,S&P 500,^GSPC,2026-11-23
+CSCO,Cisco,us,S&P 500,^GSPC,2026-11-23
+C,Citigroup,us,S&P 500,^GSPC,2026-11-23
+CFG,Citizens Financial Group,us,S&P 500,^GSPC,2026-11-23
+CLX,Clorox,us,S&P 500,^GSPC,2026-11-23
+CME,CME Group,us,S&P 500,^GSPC,2026-11-23
+CMS,CMS Energy,us,S&P 500,^GSPC,2026-11-23
+KO,Coca-Cola Company (The),us,S&P 500,^GSPC,2026-11-23
+CTSH,Cognizant,us,S&P 500,^GSPC,2026-11-23
+COHR,Coherent Corp.,us,S&P 500,^GSPC,2026-11-23
+COIN,Coinbase,us,S&P 500,^GSPC,2026-11-23
+CL,Colgate-Palmolive,us,S&P 500,^GSPC,2026-11-23
+CMCSA,Comcast,us,S&P 500,^GSPC,2026-11-23
+FIX,Comfort Systems USA,us,S&P 500,^GSPC,2026-11-23
+COP,ConocoPhillips,us,S&P 500,^GSPC,2026-11-23
+ED,Consolidated Edison,us,S&P 500,^GSPC,2026-11-23
+STZ,Constellation Brands,us,S&P 500,^GSPC,2026-11-23
+CEG,Constellation Energy,us,S&P 500,^GSPC,2026-11-23
+COO,Cooper Companies (The),us,S&P 500,^GSPC,2026-11-23
+CPRT,Copart,us,S&P 500,^GSPC,2026-11-23
+GLW,Corning Inc.,us,S&P 500,^GSPC,2026-11-23
+CPAY,Corpay,us,S&P 500,^GSPC,2026-11-23
+CSGP,CoStar Group,us,S&P 500,^GSPC,2026-11-23
+COST,Costco,us,S&P 500,^GSPC,2026-11-23
+CRH,CRH plc,us,S&P 500,^GSPC,2026-11-23
+CRWD,CrowdStrike,us,S&P 500,^GSPC,2026-11-23
+CCI,Crown Castle,us,S&P 500,^GSPC,2026-11-23
+CSX,CSX Corporation,us,S&P 500,^GSPC,2026-11-23
+CMI,Cummins,us,S&P 500,^GSPC,2026-11-23
+CVS,CVS Health,us,S&P 500,^GSPC,2026-11-23
+DHR,Danaher Corporation,us,S&P 500,^GSPC,2026-11-23
+DRI,Darden Restaurants,us,S&P 500,^GSPC,2026-11-23
+DDOG,Datadog,us,S&P 500,^GSPC,2026-11-23
+DVA,DaVita,us,S&P 500,^GSPC,2026-11-23
+DECK,Deckers Brands,us,S&P 500,^GSPC,2026-11-23
+DE,Deere & Company,us,S&P 500,^GSPC,2026-11-23
+DELL,Dell Technologies,us,S&P 500,^GSPC,2026-11-23
+DAL,Delta Air Lines,us,S&P 500,^GSPC,2026-11-23
+DVN,Devon Energy,us,S&P 500,^GSPC,2026-11-23
+DXCM,Dexcom,us,S&P 500,^GSPC,2026-11-23
+FANG,Diamondback Energy,us,S&P 500,^GSPC,2026-11-23
+DLR,Digital Realty,us,S&P 500,^GSPC,2026-11-23
+DG,Dollar General,us,S&P 500,^GSPC,2026-11-23
+DLTR,Dollar Tree,us,S&P 500,^GSPC,2026-11-23
+D,Dominion Energy,us,S&P 500,^GSPC,2026-11-23
+DPZ,Domino's,us,S&P 500,^GSPC,2026-11-23
+DASH,DoorDash,us,S&P 500,^GSPC,2026-11-23
+DOV,Dover Corporation,us,S&P 500,^GSPC,2026-11-23
+DOW,Dow Inc.,us,S&P 500,^GSPC,2026-11-23
+DHI,D. R. Horton,us,S&P 500,^GSPC,2026-11-23
+DTE,DTE Energy,us,S&P 500,^GSPC,2026-11-23
+DUK,Duke Energy,us,S&P 500,^GSPC,2026-11-23
+DD,DuPont,us,S&P 500,^GSPC,2026-11-23
+ETN,Eaton Corporation,us,S&P 500,^GSPC,2026-11-23
+EBAY,eBay Inc.,us,S&P 500,^GSPC,2026-11-23
+ECHO,EchoStar,us,S&P 500,^GSPC,2026-11-23
+ECL,Ecolab,us,S&P 500,^GSPC,2026-11-23
+EIX,Edison International,us,S&P 500,^GSPC,2026-11-23
+EW,Edwards Lifesciences,us,S&P 500,^GSPC,2026-11-23
+ELV,Elevance Health,us,S&P 500,^GSPC,2026-11-23
+EME,Emcor,us,S&P 500,^GSPC,2026-11-23
+EMR,Emerson Electric,us,S&P 500,^GSPC,2026-11-23
+ETR,Entergy,us,S&P 500,^GSPC,2026-11-23
+EOG,EOG Resources,us,S&P 500,^GSPC,2026-11-23
+EQT,EQT Corporation,us,S&P 500,^GSPC,2026-11-23
+EFX,Equifax,us,S&P 500,^GSPC,2026-11-23
+EQIX,Equinix,us,S&P 500,^GSPC,2026-11-23
+ERIE,Erie Indemnity,us,S&P 500,^GSPC,2026-11-23
+ESS,Essex Property Trust,us,S&P 500,^GSPC,2026-11-23
+EL,Estée Lauder Companies (The),us,S&P 500,^GSPC,2026-11-23
+EG,Everest Group,us,S&P 500,^GSPC,2026-11-23
+EVRG,Evergy,us,S&P 500,^GSPC,2026-11-23
+P,Everpure,us,S&P 500,^GSPC,2026-11-23
+ES,Eversource Energy,us,S&P 500,^GSPC,2026-11-23
+EXC,Exelon,us,S&P 500,^GSPC,2026-11-23
+EXE,Expand Energy,us,S&P 500,^GSPC,2026-11-23
+EXPE,Expedia Group,us,S&P 500,^GSPC,2026-11-23
+EXPD,Expeditors International,us,S&P 500,^GSPC,2026-11-23
+EXR,Extra Space Storage,us,S&P 500,^GSPC,2026-11-23
+XOM,ExxonMobil,us,S&P 500,^GSPC,2026-11-23
+FFIV,"F5, Inc.",us,S&P 500,^GSPC,2026-11-23
+FDS,FactSet,us,S&P 500,^GSPC,2026-11-23
+FICO,Fair Isaac,us,S&P 500,^GSPC,2026-11-23
+FAST,Fastenal,us,S&P 500,^GSPC,2026-11-23
+FRT,Federal Realty Investment Trust,us,S&P 500,^GSPC,2026-11-23
+FDX,FedEx,us,S&P 500,^GSPC,2026-11-23
+FDXF,FedEx Freight,us,S&P 500,^GSPC,2026-11-23
+FERG,Ferguson Enterprises,us,S&P 500,^GSPC,2026-11-23
+FIS,Fidelity National Information Services,us,S&P 500,^GSPC,2026-11-23
+FITB,Fifth Third Bancorp,us,S&P 500,^GSPC,2026-11-23
+FSLR,First Solar,us,S&P 500,^GSPC,2026-11-23
+FE,FirstEnergy,us,S&P 500,^GSPC,2026-11-23
+FISV,Fiserv,us,S&P 500,^GSPC,2026-11-23
+FLEX,Flex Ltd.,us,S&P 500,^GSPC,2026-11-23
+F,Ford Motor Company,us,S&P 500,^GSPC,2026-11-23
+FTNT,Fortinet,us,S&P 500,^GSPC,2026-11-23
+FTV,Fortive,us,S&P 500,^GSPC,2026-11-23
+FOXA,Fox Corporation (Class A),us,S&P 500,^GSPC,2026-11-23
+FOX,Fox Corporation (Class B),us,S&P 500,^GSPC,2026-11-23
+BEN,Franklin Resources,us,S&P 500,^GSPC,2026-11-23
+FCX,Freeport-McMoRan,us,S&P 500,^GSPC,2026-11-23
+GRMN,Garmin,us,S&P 500,^GSPC,2026-11-23
+IT,Gartner,us,S&P 500,^GSPC,2026-11-23
+GE,GE Aerospace,us,S&P 500,^GSPC,2026-11-23
+GEHC,GE HealthCare,us,S&P 500,^GSPC,2026-11-23
+GEV,GE Vernova,us,S&P 500,^GSPC,2026-11-23
+GEN,Gen Digital,us,S&P 500,^GSPC,2026-11-23
+GNRC,Generac,us,S&P 500,^GSPC,2026-11-23
+GD,General Dynamics,us,S&P 500,^GSPC,2026-11-23
+GIS,General Mills,us,S&P 500,^GSPC,2026-11-23
+GM,General Motors,us,S&P 500,^GSPC,2026-11-23
+GPC,Genuine Parts Company,us,S&P 500,^GSPC,2026-11-23
+GILD,Gilead Sciences,us,S&P 500,^GSPC,2026-11-23
+GPN,Global Payments,us,S&P 500,^GSPC,2026-11-23
+GL,Globe Life,us,S&P 500,^GSPC,2026-11-23
+GDDY,GoDaddy,us,S&P 500,^GSPC,2026-11-23
+GS,Goldman Sachs,us,S&P 500,^GSPC,2026-11-23
+HAL,Halliburton,us,S&P 500,^GSPC,2026-11-23
+HIG,Hartford (The),us,S&P 500,^GSPC,2026-11-23
+HAS,Hasbro,us,S&P 500,^GSPC,2026-11-23
+HCA,HCA Healthcare,us,S&P 500,^GSPC,2026-11-23
+DOC,Healthpeak Properties,us,S&P 500,^GSPC,2026-11-23
+HSIC,Henry Schein,us,S&P 500,^GSPC,2026-11-23
+HSY,Hershey Company (The),us,S&P 500,^GSPC,2026-11-23
+HPE,Hewlett Packard Enterprise,us,S&P 500,^GSPC,2026-11-23
+HLT,Hilton Worldwide,us,S&P 500,^GSPC,2026-11-23
+HD,Home Depot (The),us,S&P 500,^GSPC,2026-11-23
+HONA,Honeywell Aerospace,us,S&P 500,^GSPC,2026-11-23
+HON,Honeywell Technologies,us,S&P 500,^GSPC,2026-11-23
+HRL,Hormel Foods,us,S&P 500,^GSPC,2026-11-23
+HST,Host Hotels & Resorts,us,S&P 500,^GSPC,2026-11-23
+HWM,Howmet Aerospace,us,S&P 500,^GSPC,2026-11-23
+HPQ,HP Inc.,us,S&P 500,^GSPC,2026-11-23
+HUBB,Hubbell Incorporated,us,S&P 500,^GSPC,2026-11-23
+HUM,Humana,us,S&P 500,^GSPC,2026-11-23
+HBAN,Huntington Bancshares,us,S&P 500,^GSPC,2026-11-23
+HII,Huntington Ingalls Industries,us,S&P 500,^GSPC,2026-11-23
+IBM,IBM,us,S&P 500,^GSPC,2026-11-23
+IEX,IDEX Corporation,us,S&P 500,^GSPC,2026-11-23
+IDXX,Idexx Laboratories,us,S&P 500,^GSPC,2026-11-23
+ITW,Illinois Tool Works,us,S&P 500,^GSPC,2026-11-23
+ILMN,"Illumina, Inc.",us,S&P 500,^GSPC,2026-11-23
+INCY,Incyte,us,S&P 500,^GSPC,2026-11-23
+IR,Ingersoll Rand,us,S&P 500,^GSPC,2026-11-23
+PODD,Insulet Corporation,us,S&P 500,^GSPC,2026-11-23
+INTC,Intel,us,S&P 500,^GSPC,2026-11-23
+IBKR,Interactive Brokers,us,S&P 500,^GSPC,2026-11-23
+ICE,Intercontinental Exchange,us,S&P 500,^GSPC,2026-11-23
+IFF,International Flavors & Fragrances,us,S&P 500,^GSPC,2026-11-23
+IP,International Paper,us,S&P 500,^GSPC,2026-11-23
+INTU,Intuit,us,S&P 500,^GSPC,2026-11-23
+ISRG,Intuitive Surgical,us,S&P 500,^GSPC,2026-11-23
+IVZ,Invesco,us,S&P 500,^GSPC,2026-11-23
+INVH,Invitation Homes,us,S&P 500,^GSPC,2026-11-23
+IQV,IQVIA,us,S&P 500,^GSPC,2026-11-23
+IRM,Iron Mountain,us,S&P 500,^GSPC,2026-11-23
+JBHT,J.B. Hunt,us,S&P 500,^GSPC,2026-11-23
+JBL,Jabil,us,S&P 500,^GSPC,2026-11-23
+JKHY,Jack Henry & Associates,us,S&P 500,^GSPC,2026-11-23
+J,Jacobs Solutions,us,S&P 500,^GSPC,2026-11-23
+JNJ,Johnson & Johnson,us,S&P 500,^GSPC,2026-11-23
+JCI,Johnson Controls,us,S&P 500,^GSPC,2026-11-23
+JPM,JPMorgan Chase,us,S&P 500,^GSPC,2026-11-23
+KDP,Keurig Dr Pepper,us,S&P 500,^GSPC,2026-11-23
+KEY,KeyCorp,us,S&P 500,^GSPC,2026-11-23
+KEYS,Keysight Technologies,us,S&P 500,^GSPC,2026-11-23
+KMB,Kimberly-Clark,us,S&P 500,^GSPC,2026-11-23
+KIM,Kimco Realty,us,S&P 500,^GSPC,2026-11-23
+KMI,Kinder Morgan,us,S&P 500,^GSPC,2026-11-23
+KKR,KKR & Co.,us,S&P 500,^GSPC,2026-11-23
+KLAC,KLA Corporation,us,S&P 500,^GSPC,2026-11-23
+KHC,Kraft Heinz,us,S&P 500,^GSPC,2026-11-23
+KR,Kroger,us,S&P 500,^GSPC,2026-11-23
+LHX,L3Harris,us,S&P 500,^GSPC,2026-11-23
+LH,Labcorp,us,S&P 500,^GSPC,2026-11-23
+LRCX,Lam Research,us,S&P 500,^GSPC,2026-11-23
+LVS,Las Vegas Sands,us,S&P 500,^GSPC,2026-11-23
+LDOS,Leidos,us,S&P 500,^GSPC,2026-11-23
+LEN,Lennar,us,S&P 500,^GSPC,2026-11-23
+LII,Lennox International,us,S&P 500,^GSPC,2026-11-23
+LLY,Lilly (Eli),us,S&P 500,^GSPC,2026-11-23
+LIN,Linde plc,us,S&P 500,^GSPC,2026-11-23
+LYV,Live Nation Entertainment,us,S&P 500,^GSPC,2026-11-23
+LMT,Lockheed Martin,us,S&P 500,^GSPC,2026-11-23
+L,Loews Corporation,us,S&P 500,^GSPC,2026-11-23
+LOW,Lowe's,us,S&P 500,^GSPC,2026-11-23
+LULU,Lululemon Athletica,us,S&P 500,^GSPC,2026-11-23
+LITE,Lumentum,us,S&P 500,^GSPC,2026-11-23
+LYB,LyondellBasell,us,S&P 500,^GSPC,2026-11-23
+MTB,M&T Bank,us,S&P 500,^GSPC,2026-11-23
+MPC,Marathon Petroleum,us,S&P 500,^GSPC,2026-11-23
+MAR,Marriott International,us,S&P 500,^GSPC,2026-11-23
+MRSH,Marsh McLennan,us,S&P 500,^GSPC,2026-11-23
+MLM,Martin Marietta Materials,us,S&P 500,^GSPC,2026-11-23
+MRVL,Marvell Technology,us,S&P 500,^GSPC,2026-11-23
+MAS,Masco,us,S&P 500,^GSPC,2026-11-23
+MA,Mastercard,us,S&P 500,^GSPC,2026-11-23
+MKC,McCormick & Company,us,S&P 500,^GSPC,2026-11-23
+MCD,McDonald's,us,S&P 500,^GSPC,2026-11-23
+MCK,McKesson,us,S&P 500,^GSPC,2026-11-23
+MDT,Medtronic,us,S&P 500,^GSPC,2026-11-23
+MRK,Merck & Co.,us,S&P 500,^GSPC,2026-11-23
+META,Meta Platforms,us,S&P 500,^GSPC,2026-11-23
+MET,MetLife,us,S&P 500,^GSPC,2026-11-23
+MTD,Mettler Toledo,us,S&P 500,^GSPC,2026-11-23
+MGM,MGM Resorts,us,S&P 500,^GSPC,2026-11-23
+MCHP,Microchip Technology,us,S&P 500,^GSPC,2026-11-23
+MU,Micron Technology,us,S&P 500,^GSPC,2026-11-23
+MSFT,Microsoft,us,S&P 500,^GSPC,2026-11-23
+MAA,Mid-America Apartment Communities,us,S&P 500,^GSPC,2026-11-23
+MRNA,Moderna,us,S&P 500,^GSPC,2026-11-23
+MDLZ,Mondelez International,us,S&P 500,^GSPC,2026-11-23
+MPWR,Monolithic Power Systems,us,S&P 500,^GSPC,2026-11-23
+MNST,Monster Beverage,us,S&P 500,^GSPC,2026-11-23
+MCO,Moody's Corporation,us,S&P 500,^GSPC,2026-11-23
+MS,Morgan Stanley,us,S&P 500,^GSPC,2026-11-23
+MOS,Mosaic Company (The),us,S&P 500,^GSPC,2026-11-23
+MSI,Motorola Solutions,us,S&P 500,^GSPC,2026-11-23
+MSCI,MSCI,us,S&P 500,^GSPC,2026-11-23
+NDAQ,"Nasdaq, Inc.",us,S&P 500,^GSPC,2026-11-23
+NTAP,NetApp,us,S&P 500,^GSPC,2026-11-23
+NFLX,Netflix,us,S&P 500,^GSPC,2026-11-23
+NEM,Newmont,us,S&P 500,^GSPC,2026-11-23
+NWSA,News Corp (Class A),us,S&P 500,^GSPC,2026-11-23
+NWS,News Corp (Class B),us,S&P 500,^GSPC,2026-11-23
+NEE,NextEra Energy,us,S&P 500,^GSPC,2026-11-23
+NKE,"Nike, Inc.",us,S&P 500,^GSPC,2026-11-23
+NI,NiSource,us,S&P 500,^GSPC,2026-11-23
+NDSN,Nordson Corporation,us,S&P 500,^GSPC,2026-11-23
+NSC,Norfolk Southern,us,S&P 500,^GSPC,2026-11-23
+NTRS,Northern Trust,us,S&P 500,^GSPC,2026-11-23
+NOC,Northrop Grumman,us,S&P 500,^GSPC,2026-11-23
+NCLH,Norwegian Cruise Line Holdings,us,S&P 500,^GSPC,2026-11-23
+NRG,NRG Energy,us,S&P 500,^GSPC,2026-11-23
+NUE,Nucor,us,S&P 500,^GSPC,2026-11-23
+NVDA,Nvidia,us,S&P 500,^GSPC,2026-11-23
+NVR,"NVR, Inc.",us,S&P 500,^GSPC,2026-11-23
+NXPI,NXP Semiconductors,us,S&P 500,^GSPC,2026-11-23
+ORLY,O'Reilly Automotive,us,S&P 500,^GSPC,2026-11-23
+OXY,Occidental Petroleum,us,S&P 500,^GSPC,2026-11-23
+OKTA,"Okta, Inc.",us,S&P 500,^GSPC,2026-11-23
+ODFL,Old Dominion,us,S&P 500,^GSPC,2026-11-23
+OMC,Omnicom Group,us,S&P 500,^GSPC,2026-11-23
+ON,ON Semiconductor,us,S&P 500,^GSPC,2026-11-23
+OKE,Oneok,us,S&P 500,^GSPC,2026-11-23
+ORCL,Oracle Corporation,us,S&P 500,^GSPC,2026-11-23
+OTIS,Otis Worldwide,us,S&P 500,^GSPC,2026-11-23
+PCAR,Paccar,us,S&P 500,^GSPC,2026-11-23
+PKG,Packaging Corporation of America,us,S&P 500,^GSPC,2026-11-23
+PLTR,Palantir Technologies,us,S&P 500,^GSPC,2026-11-23
+PANW,Palo Alto Networks,us,S&P 500,^GSPC,2026-11-23
+PH,Parker Hannifin,us,S&P 500,^GSPC,2026-11-23
+PAYX,Paychex,us,S&P 500,^GSPC,2026-11-23
+PYPL,PayPal,us,S&P 500,^GSPC,2026-11-23
+PNR,Pentair,us,S&P 500,^GSPC,2026-11-23
+PEP,PepsiCo,us,S&P 500,^GSPC,2026-11-23
+PFE,Pfizer,us,S&P 500,^GSPC,2026-11-23
+PCG,PG&E Corporation,us,S&P 500,^GSPC,2026-11-23
+PM,Philip Morris International,us,S&P 500,^GSPC,2026-11-23
+PSX,Phillips 66,us,S&P 500,^GSPC,2026-11-23
+PNW,Pinnacle West Capital,us,S&P 500,^GSPC,2026-11-23
+PNC,PNC Financial Services,us,S&P 500,^GSPC,2026-11-23
+PPG,PPG Industries,us,S&P 500,^GSPC,2026-11-23
+PPL,PPL Corporation,us,S&P 500,^GSPC,2026-11-23
+PFG,Principal Financial Group,us,S&P 500,^GSPC,2026-11-23
+PG,Procter & Gamble,us,S&P 500,^GSPC,2026-11-23
+PGR,Progressive Corporation,us,S&P 500,^GSPC,2026-11-23
+PLD,Prologis,us,S&P 500,^GSPC,2026-11-23
+PRU,Prudential Financial,us,S&P 500,^GSPC,2026-11-23
+PTC,PTC Inc.,us,S&P 500,^GSPC,2026-11-23
+PEG,Public Service Enterprise Group,us,S&P 500,^GSPC,2026-11-23
+PSA,Public Storage,us,S&P 500,^GSPC,2026-11-23
+PHM,PulteGroup,us,S&P 500,^GSPC,2026-11-23
+Q,Qnity Electronics,us,S&P 500,^GSPC,2026-11-23
+QCOM,Qualcomm,us,S&P 500,^GSPC,2026-11-23
+PWR,Quanta Services,us,S&P 500,^GSPC,2026-11-23
+DGX,Quest Diagnostics,us,S&P 500,^GSPC,2026-11-23
+RL,Ralph Lauren Corporation,us,S&P 500,^GSPC,2026-11-23
+RJF,Raymond James Financial,us,S&P 500,^GSPC,2026-11-23
+RDDT,Reddit,us,S&P 500,^GSPC,2026-11-23
+O,Realty Income,us,S&P 500,^GSPC,2026-11-23
+REG,Regency Centers,us,S&P 500,^GSPC,2026-11-23
+REGN,Regeneron Pharmaceuticals,us,S&P 500,^GSPC,2026-11-23
+RF,Regions Financial Corporation,us,S&P 500,^GSPC,2026-11-23
+RSG,Republic Services,us,S&P 500,^GSPC,2026-11-23
+RMD,ResMed,us,S&P 500,^GSPC,2026-11-23
+RVTY,Revvity,us,S&P 500,^GSPC,2026-11-23
+HOOD,Robinhood Markets,us,S&P 500,^GSPC,2026-11-23
+ROK,Rockwell Automation,us,S&P 500,^GSPC,2026-11-23
+ROL,"Rollins, Inc.",us,S&P 500,^GSPC,2026-11-23
+ROP,Roper Technologies,us,S&P 500,^GSPC,2026-11-23
+ROST,Ross Stores,us,S&P 500,^GSPC,2026-11-23
+RCL,Royal Caribbean Group,us,S&P 500,^GSPC,2026-11-23
+RTX,RTX Corporation,us,S&P 500,^GSPC,2026-11-23
+SPGI,S&P Global,us,S&P 500,^GSPC,2026-11-23
+CRM,Salesforce,us,S&P 500,^GSPC,2026-11-23
+SNDK,Sandisk,us,S&P 500,^GSPC,2026-11-23
+SBAC,SBA Communications,us,S&P 500,^GSPC,2026-11-23
+SLB,Schlumberger,us,S&P 500,^GSPC,2026-11-23
+STX,Seagate Technology,us,S&P 500,^GSPC,2026-11-23
+SRE,Sempra,us,S&P 500,^GSPC,2026-11-23
+NOW,ServiceNow,us,S&P 500,^GSPC,2026-11-23
+SHW,Sherwin-Williams,us,S&P 500,^GSPC,2026-11-23
+SPG,Simon Property Group,us,S&P 500,^GSPC,2026-11-23
+SKYD,Skydance,us,S&P 500,^GSPC,2026-11-23
+SWKS,Skyworks Solutions,us,S&P 500,^GSPC,2026-11-23
+SJM,J.M. Smucker Company (The),us,S&P 500,^GSPC,2026-11-23
+SW,Smurfit Westrock,us,S&P 500,^GSPC,2026-11-23
+SNA,Snap-on,us,S&P 500,^GSPC,2026-11-23
+SOLV,Solventum,us,S&P 500,^GSPC,2026-11-23
+SO,Southern Company,us,S&P 500,^GSPC,2026-11-23
+LUV,Southwest Airlines,us,S&P 500,^GSPC,2026-11-23
+SWK,Stanley Black & Decker,us,S&P 500,^GSPC,2026-11-23
+SBUX,Starbucks,us,S&P 500,^GSPC,2026-11-23
+STT,State Street Corporation,us,S&P 500,^GSPC,2026-11-23
+STLD,Steel Dynamics,us,S&P 500,^GSPC,2026-11-23
+STE,Steris,us,S&P 500,^GSPC,2026-11-23
+SYK,Stryker Corporation,us,S&P 500,^GSPC,2026-11-23
+SMCI,Supermicro,us,S&P 500,^GSPC,2026-11-23
+SYF,Synchrony Financial,us,S&P 500,^GSPC,2026-11-23
+SNPS,Synopsys,us,S&P 500,^GSPC,2026-11-23
+SYY,Sysco,us,S&P 500,^GSPC,2026-11-23
+TMUS,T-Mobile US,us,S&P 500,^GSPC,2026-11-23
+TROW,T. Rowe Price,us,S&P 500,^GSPC,2026-11-23
+TTWO,Take-Two Interactive,us,S&P 500,^GSPC,2026-11-23
+TPR,"Tapestry, Inc.",us,S&P 500,^GSPC,2026-11-23
+TRGP,Targa Resources,us,S&P 500,^GSPC,2026-11-23
+TGT,Target Corporation,us,S&P 500,^GSPC,2026-11-23
+TEL,TE Connectivity,us,S&P 500,^GSPC,2026-11-23
+TDY,Teledyne Technologies,us,S&P 500,^GSPC,2026-11-23
+TER,Teradyne,us,S&P 500,^GSPC,2026-11-23
+TSLA,"Tesla, Inc.",us,S&P 500,^GSPC,2026-11-23
+TXN,Texas Instruments,us,S&P 500,^GSPC,2026-11-23
+TPL,Texas Pacific Land Corporation,us,S&P 500,^GSPC,2026-11-23
+TXT,Textron,us,S&P 500,^GSPC,2026-11-23
+TMO,Thermo Fisher Scientific,us,S&P 500,^GSPC,2026-11-23
+TJX,TJX Companies,us,S&P 500,^GSPC,2026-11-23
+TKO,TKO Group Holdings,us,S&P 500,^GSPC,2026-11-23
+TSCO,Tractor Supply,us,S&P 500,^GSPC,2026-11-23
+TT,Trane Technologies,us,S&P 500,^GSPC,2026-11-23
+TDG,TransDigm Group,us,S&P 500,^GSPC,2026-11-23
+TRV,Travelers Companies (The),us,S&P 500,^GSPC,2026-11-23
+TRMB,Trimble Inc.,us,S&P 500,^GSPC,2026-11-23
+TFC,Truist Financial,us,S&P 500,^GSPC,2026-11-23
+TWLO,Twilio,us,S&P 500,^GSPC,2026-11-23
+TYL,Tyler Technologies,us,S&P 500,^GSPC,2026-11-23
+TSN,Tyson Foods,us,S&P 500,^GSPC,2026-11-23
+USB,U.S. Bancorp,us,S&P 500,^GSPC,2026-11-23
+UBER,Uber,us,S&P 500,^GSPC,2026-11-23
+UDR,"UDR, Inc.",us,S&P 500,^GSPC,2026-11-23
+ULTA,Ulta Beauty,us,S&P 500,^GSPC,2026-11-23
+UNP,Union Pacific Corporation,us,S&P 500,^GSPC,2026-11-23
+UAL,United Airlines Holdings,us,S&P 500,^GSPC,2026-11-23
+UPS,United Parcel Service,us,S&P 500,^GSPC,2026-11-23
+URI,United Rentals,us,S&P 500,^GSPC,2026-11-23
+UNH,UnitedHealth Group,us,S&P 500,^GSPC,2026-11-23
+UHS,Universal Health Services,us,S&P 500,^GSPC,2026-11-23
+VLO,Valero Energy,us,S&P 500,^GSPC,2026-11-23
+VEEV,Veeva Systems,us,S&P 500,^GSPC,2026-11-23
+VTR,Ventas,us,S&P 500,^GSPC,2026-11-23
+VLTO,Veralto,us,S&P 500,^GSPC,2026-11-23
+VRSN,Verisign,us,S&P 500,^GSPC,2026-11-23
+VRSK,Verisk Analytics,us,S&P 500,^GSPC,2026-11-23
+VZ,Verizon,us,S&P 500,^GSPC,2026-11-23
+VRTX,Vertex Pharmaceuticals,us,S&P 500,^GSPC,2026-11-23
+VRT,Vertiv,us,S&P 500,^GSPC,2026-11-23
+VTRS,Viatris,us,S&P 500,^GSPC,2026-11-23
+VICI,Vici Properties,us,S&P 500,^GSPC,2026-11-23
+V,Visa Inc.,us,S&P 500,^GSPC,2026-11-23
+VST,Vistra Corp.,us,S&P 500,^GSPC,2026-11-23
+VMRK,Vivmark Residential,us,S&P 500,^GSPC,2026-11-23
+VMC,Vulcan Materials Company,us,S&P 500,^GSPC,2026-11-23
+VYLR,Vylor,us,S&P 500,^GSPC,2026-11-23
+WRB,W. R. Berkley Corporation,us,S&P 500,^GSPC,2026-11-23
+GWW,W. W. Grainger,us,S&P 500,^GSPC,2026-11-23
+WAB,Wabtec,us,S&P 500,^GSPC,2026-11-23
+WMT,Walmart,us,S&P 500,^GSPC,2026-11-23
+DIS,Walt Disney Company (The),us,S&P 500,^GSPC,2026-11-23
+WM,Waste Management,us,S&P 500,^GSPC,2026-11-23
+WAT,Waters Corporation,us,S&P 500,^GSPC,2026-11-23
+WEC,WEC Energy Group,us,S&P 500,^GSPC,2026-11-23
+WFC,Wells Fargo,us,S&P 500,^GSPC,2026-11-23
+WELL,Welltower,us,S&P 500,^GSPC,2026-11-23
+WST,West Pharmaceutical Services,us,S&P 500,^GSPC,2026-11-23
+WDC,Western Digital,us,S&P 500,^GSPC,2026-11-23
+WY,Weyerhaeuser,us,S&P 500,^GSPC,2026-11-23
+WSM,"Williams-Sonoma, Inc.",us,S&P 500,^GSPC,2026-11-23
+WMB,Williams Companies,us,S&P 500,^GSPC,2026-11-23
+WTW,Willis Towers Watson,us,S&P 500,^GSPC,2026-11-23
+WDAY,"Workday, Inc.",us,S&P 500,^GSPC,2026-11-23
+WYNN,Wynn Resorts,us,S&P 500,^GSPC,2026-11-23
+XEL,Xcel Energy,us,S&P 500,^GSPC,2026-11-23
+XYL,Xylem Inc.,us,S&P 500,^GSPC,2026-11-23
+YUM,Yum! Brands,us,S&P 500,^GSPC,2026-11-23
+ZBRA,Zebra Technologies,us,S&P 500,^GSPC,2026-11-23
+ZBH,Zimmer Biomet,us,S&P 500,^GSPC,2026-11-23
+ZTS,Zoetis,us,S&P 500,^GSPC,2026-11-23
+ALAB,Astera Labs,us,Nasdaq 100,^NDX,2026-11-23
+ALNY,Alnylam Pharmaceuticals,us,Nasdaq 100,^NDX,2026-11-23
+ARM,ARM Holdings,us,Nasdaq 100,^NDX,2026-11-23
+ASML,ASML Holding,us,Nasdaq 100,^NDX,2026-11-23
+CCEP,Coca-Cola Europacific Partners,us,Nasdaq 100,^NDX,2026-11-23
+CRWV,CoreWeave,us,Nasdaq 100,^NDX,2026-11-23
+FER,Ferrovial,us,Nasdaq 100,^NDX,2026-11-23
+"GOOG,",Alphabet Inc.,us,Nasdaq 100,^NDX,2026-11-23
+MELI,MercadoLibre,us,Nasdaq 100,^NDX,2026-11-23
+MSTR,Strategy,us,Nasdaq 100,^NDX,2026-11-23
+NBIS,Nebius Group,us,Nasdaq 100,^NDX,2026-11-23
+PDD,Pinduoduo,us,Nasdaq 100,^NDX,2026-11-23
+RLAB,Rocket Lab,us,Nasdaq 100,^NDX,2026-11-23
+SHOP,Shopify,us,Nasdaq 100,^NDX,2026-11-23
+SPCX,SpaceX,us,Nasdaq 100,^NDX,2026-11-23
+TRI,Thomson Reuters,us,Nasdaq 100,^NDX,2026-11-23

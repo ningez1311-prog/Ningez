@@ -2,12 +2,12 @@
   "status": "ok",
   "region": "de",
   "boerse": "Xetra",
-  "handelstag": "2026-11-20",
-  "erstellt": "2026-11-20T17:58+01:00",
+  "handelstag": "2026-11-23",
+  "erstellt": "2026-11-23T18:02+01:00",
   "marktfilter": {
-    "DAX": false,
+    "DAX": true,
     "MDAX": false,
-    "TecDAX": false
+    "TecDAX": true
   },
   "top_signale": [],
   "weitere_signale": 0,
@@ -17,7 +17,7 @@
   "diagnose": {
     "universum": 100,
     "kursreihen": 102,
-    "liquide_geprueft": 74,
+    "liquide_geprueft": 73,
     "rohsignale": {
       "A": 0,
       "B": 0,
@@ -52,8 +52,8 @@
     "C": {
       "name": "Drift nach Zahlen",
       "signale": 3,
-      "offen": 1,
-      "wartend": 1,
+      "offen": 2,
+      "wartend": 0,
       "ausgelassen": 1,
       "geschlossen": 0,
       "trefferquote": null,
