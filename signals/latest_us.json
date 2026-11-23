@@ -2,8 +2,8 @@
   "status": "ok",
   "region": "us",
   "boerse": "NYSE/Nasdaq",
-  "handelstag": "2026-11-20",
-  "erstellt": "2026-11-20T16:26-05:00",
+  "handelstag": "2026-11-23",
+  "erstellt": "2026-11-23T16:29-05:00",
   "marktfilter": {
     "S&P 500": false,
     "Nasdaq 100": false
@@ -20,7 +20,7 @@
     "rohsignale": {
       "A": 0,
       "B": 0,
-      "C": 1
+      "C": 0
     }
   },
   "kennzahlen": {
