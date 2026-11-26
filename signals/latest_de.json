@@ -2,10 +2,10 @@
   "status": "ok",
   "region": "de",
   "boerse": "Xetra",
-  "handelstag": "2026-11-25",
-  "erstellt": "2026-11-25T17:43+01:00",
+  "handelstag": "2026-11-26",
+  "erstellt": "2026-11-26T17:44+01:00",
   "marktfilter": {
-    "DAX": false,
+    "DAX": true,
     "MDAX": false,
     "TecDAX": false
   },
@@ -16,7 +16,7 @@
   "offene_papier_trades": 0,
   "diagnose": {
     "universum": 100,
-    "kursreihen": 102,
+    "kursreihen": 101,
     "liquide_geprueft": 73,
     "rohsignale": {
       "A": 0,
@@ -39,9 +39,9 @@
     },
     "B": {
       "name": "Momentum-Ausbruch",
-      "signale": 3,
-      "offen": 1,
-      "wartend": 1,
+      "signale": 5,
+      "offen": 2,
+      "wartend": 2,
       "ausgelassen": 0,
       "geschlossen": 1,
       "trefferquote": 0.0,
@@ -52,8 +52,8 @@
     "C": {
       "name": "Drift nach Zahlen",
       "signale": 4,
-      "offen": 2,
-      "wartend": 1,
+      "offen": 3,
+      "wartend": 0,
       "ausgelassen": 1,
       "geschlossen": 0,
       "trefferquote": null,
