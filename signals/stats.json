@@ -14,8 +14,8 @@
   "B": {
     "name": "Momentum-Ausbruch",
     "signale": 5,
-    "offen": 2,
-    "wartend": 2,
+    "offen": 4,
+    "wartend": 0,
     "ausgelassen": 0,
     "geschlossen": 1,
     "trefferquote": 0.0,
@@ -26,13 +26,13 @@
   "C": {
     "name": "Drift nach Zahlen",
     "signale": 4,
-    "offen": 3,
+    "offen": 2,
     "wartend": 0,
     "ausgelassen": 1,
-    "geschlossen": 0,
-    "trefferquote": null,
+    "geschlossen": 1,
+    "trefferquote": 0.0,
     "avg_gewinn": null,
-    "avg_verlust": null,
-    "erwartungswert": null
+    "avg_verlust": -0.0575,
+    "erwartungswert": -0.0575
   }
 }
