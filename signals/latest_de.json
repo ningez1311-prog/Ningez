@@ -2,12 +2,12 @@
   "status": "ok",
   "region": "de",
   "boerse": "Xetra",
-  "handelstag": "2026-11-26",
-  "erstellt": "2026-11-26T17:44+01:00",
+  "handelstag": "2026-11-27",
+  "erstellt": "2026-11-27T17:46+01:00",
   "marktfilter": {
     "DAX": true,
     "MDAX": false,
-    "TecDAX": false
+    "TecDAX": true
   },
   "top_signale": [],
   "weitere_signale": 0,
@@ -16,8 +16,8 @@
   "offene_papier_trades": 0,
   "diagnose": {
     "universum": 100,
-    "kursreihen": 101,
-    "liquide_geprueft": 73,
+    "kursreihen": 102,
+    "liquide_geprueft": 74,
     "rohsignale": {
       "A": 0,
       "B": 0,
